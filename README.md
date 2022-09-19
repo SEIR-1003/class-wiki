@@ -1,2 +1,907 @@
-# class-wiki
-A quick guide for our 10/03 SEIR Cohort
+# Class Wiki
+
+<div align="center">
+  <img src="https://i.imgur.com/WNe3NwE.png" alt="wiki" height="500">
+</div>
+
+___
+Welcome to the <b>SEI-R-10-03 Class Wiki</b>.
+
+This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
+
+<b>Deliverable Pull Request Guidelines</b> can be found [here](https://github.com/SEI-R-6-21/template_pull_request).
+
+<b>Daily Javascript Challenges</b> can be found [here](https://github.com/SEI-R-6-21/daily_js_challenges).
+
+<b>Computer Science - Algorithms & Data Structures</b> can be found [here](https://github.com/SEI-R-6-21/cs_data_structures).
+
+____
+<details><summary><strong>General Assembly Team</strong></summary><p>
+
+
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/xDwQZ7E.png" alt="jeremy">
+  <h3>Jeremy Taubman</h3>
+  <h4>Lead Instructor</h4>
+  <p>My name is Jeremy Taubman, I live outside of Hartford and have been with GA since 2019. I will be the <b>Lead Instructor</b> for this immersive.</p>
+  <p>Outside of programming, I enjoy music, cooking, and solving crossword puzzles. I love learning new things, building up projects with Javascript and Python, and can make some of the best Ramen you’ll ever have.</p>
+  <span><a href="https://github.com/taubman33">GitHub</a> | <a href="https://www.linkedin.com/in/jeremy-taubman/">LinkedIn</a></span>
+  <br>
+</div>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/TkTJmAs.png" alt="brittany">
+  <h3>Brittany Morataya</h3>
+  <h4>Instructional Associate</h4>
+  <p>My name is Brittany and I will be your <b>Instructor Associate (IA)</b> for Group 2. I will be here as added support through your journey of becoming a software engineer.</p>
+  <p>As a GA graduate, I have been in your shoes and understand what it takes to get through such a course. As for my experience, with a focus in front-end design, I freelanced for multiple clients implementing skills from previous experience with managing teams, data collection, and communication to provide a positive and open space for colleagues and clients. This will be my second cohort as an IA and I am excited to guide and help shape your minds.</p>
+  <span><a href="https://github.com/bmorataya3">GitHub</a> | <a href="https://www.linkedin.com/in/brittany-morataya/">LinkedIn</a></span>
+  <br>
+</div>
+
+____
+
+
+
+<li><details><summary><strong>Teaching Assistants</strong></summary><p>
+
+<p>TAs will lead nightly study and debugging sessions that are <b>highly recommended</b> to attend.</p>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/WW9uE5K.png" alt="glenn">
+  <h3>Glenn Brown</h3>
+  <h4>Teaching Assistant</h4>
+  <p>I've worked at Home Depot for 4.5 years and I'm a sr software engineer. I've also worked for general assembly for almost 4 years now. I know Java, ruby, python, go, JavaScript, piratelang(it's a real thing look it up lol) and a few others! I'm from Tallahassee Florida.</p>
+  <span><a href="https://github.com/smpr">GitHub</a> | <a href="https://www.linkedin.com/in/glenncrismanbrown/">LinkedIn</a></span>
+  <br>
+</div>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Raahima Ahmed</h3>
+  <h4>Teaching Assistant</h4>
+  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Sebastiano Foresi</h3>
+  <h4>Teaching Assistant</h4>
+  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
+
+</p></details></li>
+
+<li><details><summary><strong>Student Success</strong></summary><p>
+
+<p>This teams job is to ensure your success <i>during</i> the immersive. Any administrative, financial, or interpersonal questions can be directed to them.</p>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Em Gordon</h3>
+  <h4>Student Success Specialist</h4>
+  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <!--   <span><a href="https://www.linkedin.com/in/david-allison1/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+<!-- ____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Unknown</h3>
+  <h4>Student Success Specialist</h4>
+  <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p>
+  <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span>
+  <br>
+</div> -->
+
+____
+
+</p></details></li>
+
+<li><details><summary><strong>Outcomes Team</strong></summary><p>
+
+<p>This teams job is to ensure your success <i>after</i> the immersive is complete. Any job search, resume, LinkedIn, or interview questions can be directed to them.</p>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Lea Berry</h3>
+  <h4>Outcomes Manager</h4>
+  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <!--   <span><a href="https://www.linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/g24celK.jpg" alt="default">
+  <h3>Jennifer Harrold</h3>
+  <h4>Senior Career Coach</h4>
+  <p>Outcomes Coach with a background in tech, recruiting, managing talent programs, DEI strategy, and sourcing for both technical and non-technical roles. Coach from a posture of wanting to demystify processes; empower  seeker ownership over your job search and your narrative; and help reduce barriers within your control, and navigate those outside of your control, to the end of finding a role you can feel good about and satisfied in.</p>
+<!--   <span><a href="https://www.linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
+  
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Becca Rogers</h3>
+  <h4>Career Coach</h4>
+  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <!--   <span><a href="https://www.linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
+
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
+  <h3>Cathlyn Stahl</h3>
+  <h4>Career Coach</h4>
+  <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
+  <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
+  <!--   <span><a href="https://www.linkedin.com/">LinkedIn</a></span> -->
+  <br>
+</div>
+
+____
+
+</p></details></li>
+
+</ul></details>
+
+____
+<details><summary><strong>Class Policies</strong></summary><p>
+
+Below, you will find Class Policies and Requirements as laid out in Orientation and conveyed by the Instructional Team.  We compile them here for your reference and review.
+
+</p>
+
+<ul type="none">
+
+<li><details><summary><strong>Code of Conduct</strong></summary><p>
+
+<ul>
+  <li>Foster a productive classroom environment.</li>
+  <li>Treat others with respect and dignity.</li>
+  <li>Remember that everyone is coming at this with a different background.</li>
+  <li>Professionalism in all methods of communication, both in-person <i>and</i> online.
+    <ul>
+      <li>Slack is an extension of our on-campus community. We ask that you remain courteous, respectful, and professional while engaging on Slack.</li>
+    </ul>
+  </li>
+  <li><b>Zero tolerance for plagiarism and cheating.</b></li>
+</ul>
+
+</p></details></li>
+
+<li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
+
+<ul>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-6-21/template_pull_request">PR Guidelines</a>.</li>
+  <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
+  <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
+  <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
+    <ul>
+      <li>Deliverables assigned on Fridays <b>do not</b> have a re-submit <i>or</i> late submit grace period.</li>
+      <li>Deliverables submitted <i>after</i> the grace period <b>will not</b> be graded or accepted and will be marked as "Incomplete".</li>
+    </ul>
+  </li>
+</ul>
+
+</p></details></li>
+
+<li><details><summary><strong>Graduation Requirements</strong></summary><p>
+
+<ul>
+  <li>Meet Project Requirements.
+    <ul><li>Satisfactorily complete and present a project for <i>each</i> of the <b>4</b> units.</li></ul>
+  </li>
+  <li>Submit and complete a <i>minimum</i> of <b>80%</b> of deliverables (labs, homework, etc.).</li>
+  <li>Adhere to attendance policy.
+    <ul>
+      <li>Students are allowed <b>3</b> absences over the <i>entire</i> course.</li>
+      <li><b>3</b> tardies or early departures equals <b>1</b> absence.</li>
+      <li>Tardy policy <i>includes</i> Outcomes participation.</li>
+    </ul>
+  </li>
+</ul>
+
+</p></details></li>
+
+<li><details><summary><strong>A Note on Plagiarism</strong></summary><p>
+
+<ul>
+  <li>Plagiarism is a serious offense and grounds for immediate withdrawal.</li>
+  <li>You are encouraged to ask others, including students, instructors, and sites like <i>Stack Overflow</i> for help. However, it is <b><i>not acceptable to copy</i></b> another persons code and submit it as your own. More importantly, it is detrimental to your own learning and growth.</li>
+  <li>Small snippets of code that solve small problems taken from sites like <i>Stack Overflow</i> are generally an exception to this rule. If you aren't sure, it is your responsibility to <b><i>ask your instructor</i></b>. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.</li>
+</ul>
+
+</p></details></li>
+
+<li><details><summary><strong>Observed Holidays</strong></summary><p>
+
+<p>
+The following dates are observed Holidays for this immersive.  There will be no class days on or within any of the date ranges listed below.  These will not decrease the overall length of the immersive, but add on additional replacement days to the end to fulfill the 12 weeks. If you have any questions regarding Holidays, or have a special circumstance, please don't hesitate to reach out to your instructional team.
+</p>
+
+| Holiday | Date(s) |
+|:---:|:---:|
+| Juneteenth | June 20th, 2022 (Observed) |
+| Independence Day | July 4th, 2022 |
+| Labor Day | September 5th, 2022 |
+
+</p></details></li>
+
+</ul></details>
+
+____
+<details><summary><strong>Unit 1</strong> - HTML | CSS | JavaScript</summary><p>
+
+<ul type="none">
+
+  <li><details><summary><strong>Week 1</strong></summary><p>
+
+  <p>
+  In Week 1, we review the fundamental concepts of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> along with introducing <b>git</b> workflow, <b>terminal</b> commands, and writing professional <b>markdown</b> files. We also learn about the <b>JavaScript DOM</b> and how to use <b>events</b> to affect it.
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | Juneteenth | [Unit 1 Installations](https://github.com/SEI-R-6-21/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  |  | [Terminal Lesson](https://github.com/SEI-R-6-21/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-6-21/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-6-21/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-6-21/u1_lesson_intro_DOM) |
+  |  | [Git Lesson](https://github.com/SEI-R-6-21/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-6-21/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-6-21/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-6-21/u1_lab_DOM_quotes) |
+  |  | [VS Code Lesson](https://github.com/SEI-R-6-21/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-6-21/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-6-21/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-6-21/u1_lesson_js_events) |
+  |  | [Star Wars HW](https://github.com/SEI-R-6-21/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-6-21/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-6-21/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-6-21/u1_lab_dots) |
+  |  |  | [Markdown / ReadMe HW](https://github.com/SEI-R-6-21/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-6-21/u1_lesson_js_scope) | [Tic Tac Toe HW](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe) |
+  |  |  |  | [Control Flow Adventure HW](https://github.com/SEI-R-6-21/u1_hw_control_flow_adventure) |  |
+
+  <ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Bwq1Yvcq2HmEgEHqGCvqA2LskqoW3Lvrb82NBALtXhQolp6jOsXFy966LZSsS2QM.rUykEt9njsftFyYS) | [Recording](https://generalassembly.zoom.us/rec/share/iCDm7dcSzVZn_v04h27AMb8zJ7CRc7rd-W56YbibjhUCu9s3pSkc3JVICE8LytYC.jHi2rFfNWtUnGTVp) | [Recording](https://generalassembly.zoom.us/rec/share/xCLmzuxguF_1HDbLpSSE93SFf_unIdKka1ssHqTMhkkHXBk5xulk2P-lPAtiiTMa.06ZamzeEfGIUuwl5) | [Recording](https://generalassembly.zoom.us/rec/share/09J0geeX7xxO9uppRFsldrXNpUdMZvjAT2Fu-PH2OZ-QEL3zIWTk_vdKD6cbYrk.IMHTUjaVj0jthbs9) |
+  |  | Passcode: `%%b6k4HS` | Passcode: `$y0iMgLH` | Passcode: `zaZ+0f#Z` | Passcode: `x@+$VLU2` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/w0xfqAEZsa7YJvgja206Gbks83cHsnxvnAJPBL-rU88pGi2Q5mjeAAf8PgReEA7i.FnpKg-CCPqVahfIN) | [Recording](https://generalassembly.zoom.us/rec/share/-iiMseBREX91q_WijCDEC0UTYV4-fRSmDcOrhC7mtmIfvP7l8x_t6CpyMtK9ikSK.Zjumod8zFN-seF4T) | [Recording](https://generalassembly.zoom.us/rec/share/vhv39h0Pw3RLXzjZUQKI2JKHtw_cFzjb8D4g1pBNaPH-Kt17XpoWS0Flh7XQWKli.DrsvpGowLnc4i5km) | [Recording](https://generalassembly.zoom.us/rec/share/vW2zL2b9THbdP1LLu9UFIDlwS8TPrlBwmWbXMikaUfTGQDTXxkabYYnNvdEaf0_5.fsuk5fzd1Ws5RHOB) |
+  |  | Passcode: `&6J&bV&b` | Passcode: `$F9+i7s&` | Passcode: `yT8T@VF3` | Passcode: `!3?iXvKB` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/vP17hSXKx6J484MTI6F0ELVGAwP_5TA5hmBeds3hGeTCEPGr_g9Sf7G2ot7X3ps2.DoW6j_oqIwLs5pW2) | [Recording](https://generalassembly.zoom.us/rec/share/pE0y4EP3goFs2xmuWK5Zcww3COlBOEYFywaIewAu_6P1gRUMp-GOczyjxuqdKQjO.xJOjQsMSBdkLfboU) | [Recording](https://generalassembly.zoom.us/rec/share/RM1x6iVbwbCGiJJ1X_-E1fjQQ7K1PX0A1-lK-XP-Wr2aVyuYgfr5yQf4_ydW4Q1L.gPC60W8wtMeN6ZkP) | [Recording](https://generalassembly.zoom.us/rec/share/oxTJEaWtdff-JwysrGPHPQ6sz9_jBA2KE3DU6qoznadxZHmGTSWaHtRtBkKk8nYQ.OCe80xmejxZTPoRH) |
+  |  | Passcode: `04HwXc&A` | Passcode: `++#@0NCm` | Passcode: `p=3Hu8%X` | Passcode: `g00ft^Vc` |
+
+  </p></details></li>
+
+  </ul>
+
+  ___
+  </p></details></li>
+
+  <li><details><summary><strong>Week 2</strong></summary><p>
+
+  <p>
+  In Week 2, we practice more <b>DOM Manipulation</b> and are introduced to <b>Daily JavaScript Challenges</b> and basic algorithmic problem solving. We learn about <b>ES6</b> syntax along with <b>Higher Order Functions</b> and <b>Object Oriented Programming</b> in JavaScript. At the end of the week, we learn how to call on external data sources with <b>APIs</b>.
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | Outcomes Orientation | [Intro Daily JS Challenges](https://github.com/SEI-R-6-21/daily_js_challenges) | [ES6 Syntax](https://github.com/SEI-R-6-21/u1_lesson_ES6) | [Box Model Practice](https://github.com/SEI-R-6-21/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) |
+  | [Tic Tac Toe Work Time](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe) | [JS Objects](https://github.com/SEI-R-6-21/u1_lesson_js_objects) | [ES6 Lab](https://github.com/SEI-R-6-21/u1_lab_ES6_practice) | [Intro to OOP](https://github.com/SEI-R-6-21/u1_lesson_OOP) | [Dogs API Lab](https://github.com/SEI-R-6-21/u1_lab_API_dogs) |
+  |  | [Jurassic Objects Lab](https://github.com/SEI-R-6-21/u1_lab_jurassic_objects) | [JS HOF](https://github.com/SEI-R-6-21/u1_lesson_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-6-21/u1_lab_OOP_exercise) | [TMDB Lab / HW](https://github.com/SEI-R-6-21/u1_lab_TMDB_API) |
+  |  | [CodeWars HW](https://github.com/SEI-R-6-21/u1_hw_codewars_challenges) | [JS HOF Lab](https://github.com/SEI-R-6-21/u1_lab_HOF) | [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt) |
+  |  | Outcomes | [JS HOF HW](https://github.com/SEI-R-6-21/u1_hw_HOF) | [JS Fast & Furious HW](https://github.com/SEI-R-6-21/u1_hw_fast_and_furious) |  |
+
+ <ul type="none">
+
+ <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/tVM94zCBw5Bf9uOSdKBhvstWwSugtQhPwhPFr8yB1orchy-87BP78d7RB4WKNwv0.MWwJWOKJfanmg0L-) | [Recording](https://generalassembly.zoom.us/rec/share/chDuH87-__GmZtIprfKD61kB5ju887Fu0i2x-ntYeUyQ0sf7gMfhQSBXymk9AUrD.GKieSafxuuHjcKEn) | [Recording](https://generalassembly.zoom.us/rec/share/m3apAabBLYXbw3tQ5EduG7nYPvPyaBU2t2ZJUg5HCxoLe29kRKRD7g7ZjDCNNvvt.dMOXyDPbFbRf5Goc) | [Recording](https://generalassembly.zoom.us/rec/share/9RVZ3o48sHxh9h5wfg3gldSIUOmvjw7XW1XNf9iQwQRDtaLRqUL2K41xbvw3cHk.6LiU7Qvb8_8adAZ9) |
+  |  | Passcode: `UeQ?5k86` | Passcode: `d^a7Ygmh` | Passcode: `FDb^a7@c` | Passcode: `SfL$4Y=q` |
+
+ </p></details></li>
+
+ <li><details><summary>Class Recordings - Group 2</summary><p>
+
+ | Monday | Tuesday | Wednesday | Thursday | Friday |
+ |:---:|:---:|:---:|:---:|:---:|
+ | [Recording](https://generalassembly.zoom.us/rec/share/pmVmg2K5KlQxeQOXA15fMJOEupdJejX5uRx7UhI1M_A3MBUcv71X6Mb-xogvysxa.3lz3tzxTSpQ0e2Km) | [Recording](https://generalassembly.zoom.us/rec/share/wnxiXplM0IxZmoalfv3dQ2c9RCY3bhmkatMs7Vi7jWacfK9PdsirT_3ryUf4Q4t7.t-Tzz4KXNKtpKxSw) | [Recording](https://generalassembly.zoom.us/rec/share/9KYtNdHN8LzoPxBO-d50tqLPWEisjAY22wnWwUjkrflyq8fIXVkkuQdBVIhQc2fJ.Dc7-ab3PsmL72s8o) | [Recording](https://generalassembly.zoom.us/rec/share/vlQCTwJLkBNBr4PPb_fW_7FKlN5FIEiUoGibvhsq6NaTlLlygnGAFUJFxHOcq2UU.CweFVcaIsY5uCiP0) | [Recording](https://generalassembly.zoom.us/rec/share/X4S_t7TZmxT5kUIhpUS2bFgTcqvOZD0DGHF9Cfvsuwl_9PJC8WNoMP4RVFKiZ7V2.xYck0nJmycbou7fl) |
+ | Passcode: `?LFQl60#` | Passcode: `J=f%bw50` | Passcode: `M5$66H=$` | Passcode: `s#Hq=6f1` | Passcode: `89TsvI$8` |
+
+ </p></details></li>
+
+ <li><details><summary>Class Recordings - Group 3</summary><p>
+
+ | Monday | Tuesday | Wednesday | Thursday | Friday |
+ |:---:|:---:|:---:|:---:|:---:|
+ | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/2Raqzwq6BRus1_wcAn9ejW1mnyuRI6pRkrteoSNz3y8NnWFEjEktcpQUixHCXwip.fJjVWmKSu1Fr2c6P) | [Recording](https://generalassembly.zoom.us/rec/share/jVUjk4Ct96bNWbMyVqfxt22OuTK1YTLer3YuiABx3XHmumHz6rJTK6ZMbBQDGndn.jZblkI2egpFYhR12) | [Recording](https://generalassembly.zoom.us/rec/share/gQ_Sa5CecpyCEVZGgmpyZB8OKp2lh79dWU-rGTzcjnvtWQ-bzR2NoEDFZwd2TmhT.ymgaHvoLjUCvz7s2) | [Recording](https://generalassembly.zoom.us/rec/share/3goLQP20RCCPIjDded_maRoQRgpAN-8umuWQFVHWkjMUtay7Cvog0g2c9fiakrow.w2PmW6VxQnL-znyx) |
+ |  | Passcode: `8sTC7y*k` | Passcode: `#c=0UU%6` | Passcode: `a&ZA1jkj` | Passcode: `S8XB?&#%` |
+
+  </p></details></li>
+    
+<!--   <li><details><summary>Class Recordings - Tic Tac Toe Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+
+  </p></details></li> -->
+
+  <li><details><summary>Class Recordings - Project 1 Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/QGcwV-cP0z3KnX4GGetfV9b-oOB9Us-2XtN7vwJHJNyFag7RoRUXH6KMnw9zvV17.hgJeN56y1mvRmjKb) | [Recording](https://generalassembly.zoom.us/rec/share/0Ktc3Pwe_kyL3Si5oNphmZlcAjzbRB5wLDCqJj4Df6JgeIE33vioie4Me_qkZiuZ.FYLhzy0Y9f3opXNz) | [Recording](https://generalassembly.zoom.us/rec/share/xg7hf5JRotniClwR740xP1tvTSyQ_kQMCDiCXBhPVaMXm3G0gQQKdydVmy_uZQ-1.rzdJPAly1X-SXa3k) |
+  | Passcode: `Q@%1Xbuq` | Passcode: `z*F+0Km&` | Passcode: `GM4*hXs?` |
+
+  </p></details></li>
+
+  </ul>
+
+  </p></details></li>
+
+</p></details>
+
+___
+<details><summary><strong>Unit 2</strong> - React | MongoDB | Express</summary><p>
+
+<ul type="none">
+
+  <li><details><summary><strong>Week 4</strong></summary><p>
+
+   <p>
+     In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps. We also get into how we can use <b>useEffect</b> to make axios calls in our React apps. Finally at the end of the week, we learn <b>React Router</b>, a powerful tool for navigating around our virtual DOM.
+  </p>
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Intro to React](https://github.com/SEI-R-6-21/u2_lesson_intro_to_react) | [Component Hierarchy Diagrams](https://github.com/SEI-R-6-21/u2_lesson_component_hierarchy) | [Intro to State & Hooks](https://github.com/SEI-R-6-21/u2_lesson_state_and_hooks) | [Conditional Rendering](https://github.com/SEI-R-6-21/u2_lesson_conditional_rendering) | [React Router](https://github.com/SEI-R-6-21/u2_lesson_react_router) |
+  | [React Components](https://github.com/SEI-R-6-21/u2_lesson_react_components) | [Mapping Components](https://github.com/SEI-R-6-21/u2_lesson_react_mapping_components) | [Hooks ATM Lab](https://github.com/SEI-R-6-21/u2_lab_react_ATM) | [Conditional Rendering Lab](https://github.com/SEI-R-6-21/u2_lab_conditional_rendering) | [React Router Lab](https://github.com/SEI-R-6-21/u2_lab_react_router) |
+  | [React Props](https://github.com/SEI-R-6-21/u2_lesson_react_props) | [Mapping Contacts Lab](https://github.com/SEI-R-6-21/u2_lab_mapping_contacts) | [Likes Lab](https://github.com/SEI-R-6-21/u2_lab_likes) | [The useEffect Hook](https://github.com/SEI-R-6-21/u2_lesson_useEffect) | [MongoDB Install](https://github.com/SEI-R-6-21/u2_lesson_mongo_install) |
+  | [LOTR Lab](https://github.com/SEI-R-6-21/u2_lab_react_LOTR) | [Movie Mapping HW](https://github.com/SEI-R-6-21/u2_hw_movie_mapping) | [Groceries Lab (bonus)](https://github.com/SEI-R-6-21/u2_lab_groceries) | [React w/ APIs](https://github.com/SEI-R-6-21/u2_lesson_react_APIs) | [RAWG Router Lab / HW](https://github.com/SEI-R-6-21/u2_hw_RAWG_router) |
+  | [React Quiz HW](https://github.com/SEI-R-6-21/u2_hw_react_quiz) | Outcomes | [Dr. Who Lab (bonus)](https://github.com/SEI-R-6-21/u2_lab_dr_who) | [Kanye useEffect Lab](https://github.com/SEI-R-6-21/u3_lab_kanye_useEffect) |  |
+  |  |  | [Password Validator Lab (bonus)](https://github.com/SEI-R-6-21/u2_lab_password_validator) | [React Calculator HW](https://github.com/SEI-R-6-21/u2_hw_react_calculator) |  |
+
+<ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/B3hPmWUtBfXPryEOSTpzid4KQsmxslO82piRuVYAqQUUj9M3ANp3rJSq4Vn9UfiX.qNtmxT-AWgbDliWx) | [Recording](https://generalassembly.zoom.us/rec/share/0xJlgzixwpbIw6ZNn6GcLoiWP6JLq6AWOUZkhvSSBL320VNLggrI2FKxfEM8c4eE.lSjt3Bi7jCxEN_9-) | [Recording](https://generalassembly.zoom.us/rec/share/Xgox-qbidR27d7c1TgoYL0KR7uSuTW0qauL2eLE6Nbzx0xVXRoKL2TC7gNL7EMAZ.XGvWPUowqk9jemdn) | [Recording](https://generalassembly.zoom.us/rec/share/aiI9ZKhRl9NUaZAuc-u-rhpWrJgBo0NCZSQo6enXHcpHRcmkaTayNMVNAUwYquAi.gJ6Cu2Afq5Le17P5) | [Recording](https://generalassembly.zoom.us/rec/share/dd9pLYYUV3uiDo8l2H7d8bi8VmXgajOIZII2Q_LvN9NHWWHr5BESt5dp-8frabty.AXcEKCdSCRW1RpC2) |
+  | Passcode: `SB!6?P37` | Passcode: `16ucgt%Y` | Passcode: `jBO!Zf?1` | Passcode: `!Wq9zrXL` | Passcode: `ma7=0*Y&` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/cYcFZUFba67SFKCK3aejaO0WvTRD0GP4u3mKLKN7Z9n9ur2H-lzs9RjRgb7qTyul.jSvVQ2C3FPgfRJa3) | [Recording](https://generalassembly.zoom.us/rec/share/wMwAK1VvTyXzVWwYFFzx5JQZGdEYpvU6EDnL4kjOIO8zFWQbvOBfYIRHADp_FwfI.ta_L5Uq9exfzlZn7) | [Recording](https://generalassembly.zoom.us/rec/share/wvpo-aufO82B6826vlm_FKHZJzfWu8LQf75rHaZVz_gIct7AbOHnLOCjT2w1aEoy.r1SGyAj3Rt1wEnEj) | [Recording](https://generalassembly.zoom.us/rec/share/Eu0jciDDAm4Jfa4sr8QwJiyDZ0R_d4lFOSOuPU4pusScUAbZfSQUXc8ijO8r0UEk.yL1rVzCwiUChK1BZ%20Passcode:%203#?R9%25S%25) | [Recording](https://generalassembly.zoom.us/rec/share/a9vMzmKuU9-f84u1OkGDcx4I08WW6hUhcCAY19Z7i3ZaeJ_FQGbF8DO37UnJDOGY.c4PauSjI9l9BjVOu) |
+  | Passcode: `Z*M3z*=B` | Passcode: `L4B0&kMq` | Passcode: `f@wK5.4a` | Passcode: `3#?R9%S%` | Passcode: `T9D?tDEc` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/oitgqJanpOtmeuYMLOLULg8mCblvg12SckSj5Ke6Nwq9H07aF_ouzJIUrwkDTqg.31ee5HWvzhxbHyBT) | [Recording](https://generalassembly.zoom.us/rec/share/D0Fxn3ukKQ7cGh9NqD12hQ3Ur0a2ofhgwVbEb2efvUu_lNAfJ8T5jgp8GbQiuRea.uGXfubLv_P62Wy6r) | [Recording](https://generalassembly.zoom.us/rec/share/iaZXCX2WazArA7QHj6YO4NBMlDKo26RTlGtKh8kbvttNwtaKUCPzA2gVkgScVaTr.eZvgeuvNJUuaz1cn) | [Recording](https://generalassembly.zoom.us/rec/share/aiI9ZKhRl9NUaZAuc-u-rhpWrJgBo0NCZSQo6enXHcpHRcmkaTayNMVNAUwYquAi.gJ6Cu2Afq5Le17P5) | [Recording](https://generalassembly.zoom.us/rec/share/dd9pLYYUV3uiDo8l2H7d8bi8VmXgajOIZII2Q_LvN9NHWWHr5BESt5dp-8frabty.AXcEKCdSCRW1RpC2) |
+  | Passcode: `C%mWkK6x` | Passcode: `4aK9e#Mz` | Passcode: `EQ%04JTr` | Passcode: `!Wq9zrXL` | Passcode: `ma7=0*Y&` |
+
+  </p></details></li>
+
+  </ul>
+
+  ___
+  </p></details></li>
+
+  <li><details><summary><strong>Week 5</strong></summary><p>
+
+  <p>
+  In Week 5, we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data. We round out the week with a huge group <b>Hackathon!</b>
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Intro to Express](https://github.com/SEI-R-6-21/u2_lesson_express_intro) | [MongoDB](https://github.com/SEI-R-6-21/u2_lesson_mongoDB) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-6-21/u2_lesson_mongoose_data_model) | [Full Stackathon](https://github.com/SEI-R-6-21/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-6-21/u2_full_stackathon) |
+  | [Express Routes](https://github.com/SEI-R-6-21/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/SEI-R-6-21/u2_lab_mongoDB_sneakers) | [Mongoose Express](https://github.com/SEI-R-6-21/u2_lesson_mongoose_express) |  | [P2 Prompt](https://github.com/SEI-R-6-21/u2_project_prompt) |
+  | [Intro to Middleware](https://github.com/SEI-R-6-21/u2_lesson_express_middleware) | [Mongo Burgers](https://github.com/SEI-R-6-21/u2_hw_mongo_burgers) | [Mongoose Associations](https://github.com/SEI-R-6-21/u2_lesson_mongoose_associations) |  |  |
+  | [Express Controllers](https://github.com/SEI-R-6-21/u2_lesson_express_controllers) | Outcomes | [ERD](https://github.com/SEI-R-6-21/u2_lesson_ERD) |  |  |
+  | [Express Fruits HW](https://github.com/SEI-R-6-21/u2_hw_express_fruits) |  | [Group Git](https://github.com/SEI-R-6-21/u2_lesson_group_git) |  | [React Forms](https://github.com/SEI-R-6-21/u2_lesson_react_forms) |
+  |  |  | [Mongoose Plants HW](https://github.com/SEI-R-6-21/u2_hw_mongoose_plants) |  | [Recording](https://generalassembly.zoom.us/rec/share/a3gjteFteCP3K2DnUsI9bM_KPIS_T-oUQJUfBDZSzhuv00z3RONnXC0RM6cz45n8.j3pu8UpnS84miIeR) |
+  |  |  | [Full Stackathon Planning HW](https://github.com/SEI-R-6-21/u2_full_stackathon) |  | Password: `Z7Z##V0W` |
+
+  <ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/G6WMcj5u-FJ54eQZE1k3nGo2mGqGoRtRneEsbkuAlzu62Lu0jADqCWgLub2N91lp.dRZuiAj9kLRgWR73) | [Recording](https://generalassembly.zoom.us/rec/share/u6_XNol2J07rbk3_z-BK1M8RnL_QXKnNu8iC9vrS58N67mvYEsgzUdtWqxs8MNWe.7UrzlU3hYcBoHMiF) | [Recording](https://generalassembly.zoom.us/rec/share/Wg58lfIKMYeyZ0fguMMCwpf2Xhq8hwVZOt7DsGqVg6cTjCGjNyC6zIkK8aq1YNZB.u2WdXTX_m4Z6So9C) | [Recording](https://generalassembly.zoom.us/rec/share/QO6N4TX5og6XCd-Bo5OHc9ZeCOUmTSNzP7EvbMGsYiimmZDo4oRWJk10Blczb1ID.fny7Mxz0bZ-JsC56) | No Recording |
+  | Passcode: `4Pznhw%=` | Passcode: `d@68=w=R` | Passcode: `1@.UZ64P` | Passcode: `t!VFGV3m` |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/yk7KM-8nW5FBm2ppn9YT1lVzVgHugc-rc0OcVHef4ZMSQkjAGT4_8WOUUxWLSwNU.se4ndFZfylKJT0h5) | [Recording](https://generalassembly.zoom.us/rec/share/SJDtssBYvoJZuRq0Ahehn_YYVDtnzdAHsl43dMkC9vPP9LwBf1lqWazINB6kGSYN.qB81X1D9nFeMRtId) | [Recording](https://generalassembly.zoom.us/rec/share/WSssnZRS__BWhBHOuY4X-7RhCvGggZOagQvELWK2N4EE5ohrXiPGsLbcc_EQKP01.1jE_xKJpYzgROEHB) | [Recording](https://generalassembly.zoom.us/rec/share/5LNwJJV1BlWIEsrudDXNzxji4RkZq5BtEKxTy0ssHiKdqD12HstDkc9R8CZRNiqa.BKmDYpwCM4Y526zU) | [Recording](https://generalassembly.zoom.us/rec/share/K_ArV9uVKxhSK3ntP1ymegvtA2LZUTOI2FNA15KIofmrjn6uo94EWE2H5CB8ppBE.ydvLaR7vxvTtQfYH) |
+  | Passcode: `Efdc%P6e` | Passcode: `68u4%%5R` | Passcode: `ogr6+=*3` | Passcode: `Pk@+kK2V` | Passcode: `NB?fkf6X` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/X3R6eB5BN4ACSqMq4nHP40oCmnEv9sYVeuepJwwzRHPqC7XNcC5VrJoSW-5h9djb.zbo2L5cu32dmo-k4) | [Recording](https://generalassembly.zoom.us/rec/share/jy2je7NAYOiRhCuQ839WEHrhgU8844nTFC_uPsU-Le21bJinWZVb6D8yCWX9lZ-C.gGmqhA29NiVTFnof) | [Recording](https://generalassembly.zoom.us/rec/share/0g0T8EtCr_6nDL_8vdBMbux570e-Ak1w0wdBrO5s5UXdnbSZKEiwbU6iftv1OvWi.O9LYj7g-vLeYv9WW) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/0OVvJrAiMHE63EFdANltaz2toTpvLuRssqsH1nQQdcuIvR7QKvEzxzvI8RiTSWEl.6hCOPP3S8ahxBBZP) |
+  | Passcode: `L8.Q7Ffi` | Passcode: `W*&8!fp0` | Passcode: `1t@aAe?h` |  | Passcode: `x?9RgpxC` |
+
+  </p></details></li>
+    
+  <li><details><summary>Class Recordings - Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording]() | [Recording]() | [Recording]() |
+  | Passcode: ` ` | Passcode: ` ` | Passcode: ` ` |
+    
+  </p></details></li>
+
+  </ul>
+
+  </p></details></li>
+
+</p></details>
+
+___
+<details><summary><strong>Unit 3</strong> - PostgreSQL | Sequelize</summary><p>
+
+<ul type="none">
+
+  <li><details><summary><strong>Week 7</strong></summary><p>
+
+  <p>
+  In Week 7, we spend the first few days building out a Full Stack app as a review of Unit 2! Then, we are introduced to <b>SQL databases</b> and start to learn SQL commands to interact with our database.  We also learn about the concept of <b>SQL Joins</b>. Then, we learn all about <b>Sequelize</b> and how it can interpret for our SQL database and our backend Node servers and we learn how to make <b>queries</b> with it!
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | Full Stack Review | Full Stack Review | Full Stack Review | [SQL Intro](https://github.com/SEI-R-6-21/u3_lesson_SQL_intro) | [Database Design](https://github.com/SEI-R-6-21/u3_lesson_database_design) |
+  |  | Outcomes |  | [SQL Practice Lab](https://github.com/SEI-R-6-21/u3_lab_SQL_practice) | [Sequelize Intro](https://github.com/SEI-R-6-21/u3_lesson_sequelize_intro) |
+  |  |  |  | [SQL Joins](https://github.com/SEI-R-6-21/u3_lesson_SQL_joins) | [Sequelize Queries](https://github.com/SEI-R-6-21/u3_lesson_sequelize_queries) |
+  |  |  |  | [SQL Joins Lab](https://github.com/SEI-R-6-21/u3_lab_SQL_joins) | [Sequelize Query Lab](https://github.com/SEI-R-6-21/u3_lab_sequelize_querying) |
+  |  |  |  | [Carmen Sandiego HW](https://github.com/SEI-R-6-21/u3_hw_carmen_sandiego) | [Sequelize Practice HW](https://github.com/SEI-R-6-21/u3_hw_sequelize_practice) |
+
+
+  <ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/Njd8aZlDRs4YwUJiD0obdcbpS0EsG2_TdNg0wwAp6tqyBex77XvLz-9OFWZ3Y8iz.LvrF-j3SbJAMmrCJ) | [Recording](https://generalassembly.zoom.us/rec/share/tnEbx2Eshav-6yHJHb_covf1fdEyhsNbAQjKjMKK-RY-Ln6KlxOrRJK4sPU__6Ih.mH1G4tWKHxKVnjL5) | [Recording](https://generalassembly.zoom.us/rec/share/BNj77uE1oJ8nhaoabjPM2H_99MkSBbc0-ALd12WYsv1YHA0TdafARq8ga3ESSj7Z.VAo5ix_kgxJuEZGl) | [Recording](https://generalassembly.zoom.us/rec/share/OPuevZrW40wABVtNs96DxOyJuBTDezMFbI0Dzin0TLbylF1JSVWyKkpvVQoiazAJ.TmsouU9cMd9ebU86) | [Recording](https://generalassembly.zoom.us/rec/share/tbpaCQi8PGp_jL2ODLbUQ6zQNq7r0Ft3QftXrCWqStNzDmoZZ6cAjT4PiGW7Lr-H.04TCqJrv4qAMmUVE) |
+  | Passcode: `py9ru*!!` | Passcode: `2p$8@?Nq` | Passcode: `rJ9z1!VG` | Passcode: `XT7u@p8N` | Passcode: `PXN490P@` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/Njd8aZlDRs4YwUJiD0obdcbpS0EsG2_TdNg0wwAp6tqyBex77XvLz-9OFWZ3Y8iz.LvrF-j3SbJAMmrCJ) | [Recording](https://generalassembly.zoom.us/rec/share/tnEbx2Eshav-6yHJHb_covf1fdEyhsNbAQjKjMKK-RY-Ln6KlxOrRJK4sPU__6Ih.mH1G4tWKHxKVnjL5) | [Recording](https://generalassembly.zoom.us/rec/share/BNj77uE1oJ8nhaoabjPM2H_99MkSBbc0-ALd12WYsv1YHA0TdafARq8ga3ESSj7Z.VAo5ix_kgxJuEZGl) | [Recording](https://generalassembly.zoom.us/rec/share/OPuevZrW40wABVtNs96DxOyJuBTDezMFbI0Dzin0TLbylF1JSVWyKkpvVQoiazAJ.TmsouU9cMd9ebU86) | [Recording](https://generalassembly.zoom.us/rec/share/tbpaCQi8PGp_jL2ODLbUQ6zQNq7r0Ft3QftXrCWqStNzDmoZZ6cAjT4PiGW7Lr-H.04TCqJrv4qAMmUVE) |
+  | Passcode: `py9ru*!!` | Passcode: `2p$8@?Nq` | Passcode: `rJ9z1!VG` | Passcode: `XT7u@p8N` | Passcode: `PXN490P@` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/Njd8aZlDRs4YwUJiD0obdcbpS0EsG2_TdNg0wwAp6tqyBex77XvLz-9OFWZ3Y8iz.LvrF-j3SbJAMmrCJ) | [Recording](https://generalassembly.zoom.us/rec/share/tnEbx2Eshav-6yHJHb_covf1fdEyhsNbAQjKjMKK-RY-Ln6KlxOrRJK4sPU__6Ih.mH1G4tWKHxKVnjL5) | [Recording](https://generalassembly.zoom.us/rec/share/BNj77uE1oJ8nhaoabjPM2H_99MkSBbc0-ALd12WYsv1YHA0TdafARq8ga3ESSj7Z.VAo5ix_kgxJuEZGl) | [Recording](https://generalassembly.zoom.us/rec/share/OPuevZrW40wABVtNs96DxOyJuBTDezMFbI0Dzin0TLbylF1JSVWyKkpvVQoiazAJ.TmsouU9cMd9ebU86) | [Recording](https://generalassembly.zoom.us/rec/share/tbpaCQi8PGp_jL2ODLbUQ6zQNq7r0Ft3QftXrCWqStNzDmoZZ6cAjT4PiGW7Lr-H.04TCqJrv4qAMmUVE) |
+  | Passcode: `py9ru*!!` | Passcode: `2p$8@?Nq` | Passcode: `rJ9z1!VG` | Passcode: `XT7u@p8N` | Passcode: `PXN490P@` |
+
+  </p></details></li>
+
+  </ul>
+
+  ___
+  </p></details></li>
+
+  <li><details><summary><strong>Week 8</strong></summary><p>
+
+  <p>
+  In Week 8, we cover Sequelize <b>migrations</b> and <b>associations</b>, as well as how to set up <b>Sequelize with Express</b>.  Then we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Sequelize Migrations](https://github.com/SEI-R-6-21/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/SEI-R-6-21/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-6-21/u3_lesson_JWT_auth) | [React Auth](https://github.com/SEI-R-6-21/u3_lesson_react_auth) | [P3 Pitch Presentations](https://github.com/SEI-R-6-21/u3_project_prompt) |
+  | [Migrations Exercise Lab](https://github.com/SEI-R-6-21/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/SEI-R-6-21/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-6-21/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-6-21/u3_lesson_sequelize_complex_associations) | []() |
+  | [Sequelize Associations](https://github.com/SEI-R-6-21/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/SEI-R-6-21/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/SEI-R-6-21/u3_project_prompt) | []() |
+  | [Associations Exercise Lab](https://github.com/SEI-R-6-21/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
+  | [Associations & Migrations HW](https://github.com/SEI-R-6-21/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() | []() |
+
+  <ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/SRw1cFztUQnR8geFaPOh1KWlMGaZmPa3-i0CJiL820bnkz_257iEO3EPZcJ-NjRb.I-lw6NBXrtnpb3Rd) | [Recording](https://generalassembly.zoom.us/rec/share/xB440xZjxTuvQgCj5fiO55LYRcEaxyY7xftsLgII6r7vf9h30JG5IK9vAq3WMtq_.cW_6fog9dofBmDBe) | [Recording](https://generalassembly.zoom.us/rec/share/jtUOpTmmDYv9ZU6-Tv5dOq-5Wgnv3u9vRlfpYAm1NysWJISD00u97TQkRJeD6xoN.0sMqu3RuRN9WuWwG) | No Recording | No Recording |
+  | Passcode: `k#h#h6u1` | Passcode: `M%hvy8@v` | Passcode: `u&vhC40K` |  |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/eakmCU2BHodKgwTkBLoGB6gjqYsOLMLqfVi7suPmV6Io9LXoJD_4R16ZQMnPmGv7.Dj4P1ATO5VtlsWEI) | [Recording](https://generalassembly.zoom.us/rec/share/wDMMIDcOrczmRCFce3gY13-JpyQoivV5e3qpSIIkjwhh19-UYF6uAzWZg3n18_qR.yaf2Nk-IcZc2vaQq) | [Recording](https://generalassembly.zoom.us/rec/share/_c9wxShCspKVwNteI41Xg6jAMyy_VUUWKqUB8wxDsm0Ke8rF0QwCOsqllwMnCARP.KnCNOblwwnhXLUkN) | No Recording | No Recording |
+  | Passcode: `v#W5$Re4` | Passcode: `fR$8Bkh6` | Passcode: `6S*8r@Ge` |  |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/60EDfiWVJcDvtUGTzzdFXkVRagzPgbG9YfKJnaj4PB4_hih3VkiaJgsjLd3v0v_t.yKeLBOJy37eFjKRo) | [Recording](https://generalassembly.zoom.us/rec/share/a6YcHzRZFrAqYaQTaGlvIWflLNAkpO-yD6L-968NalU81R94deYL2GJdAYxwq2EB._rm_F8o7AjbMG2eu) | [Recording](https://generalassembly.zoom.us/rec/share/PaDW9BABkj-AGfQvJ3hnQYZVuZ1wdrCzJzSkQmZL8m6fi4dEj5eBmj0Fs58cEr36.WSvm5OUQ_ia5laZL) | No Recording | No Recording |
+  | Passcode: `rn7q+!?1` | Passcode: `LmLA=5#@` | Passcode: `$SAZ?7WE` |  |  |
+
+  </p></details></li>
+    
+  <li><details><summary>Class Recordings - Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/IMR-n3n4vgROBXj90p11zl7ZqaYP61kB_BoqBHFLiUgjm8Q4VWyi5M_1tNaUzmdo.9LLlEfbkKkiBDbTd) | [Recording](https://generalassembly.zoom.us/rec/share/aNCbyLYrxheKILe3U96UId-UAOJ1rlHBsZGtIBCqaC2IyKOGKNnEGsKyeUbySox3.CayIrnoHC6Bp-EsO) | [Recording](https://generalassembly.zoom.us/rec/share/UKCW7zCB624e_KYNnkd-t3s-3E4v_Cf3rMgOmHpk9QpNprkGxTSGjO3c82wSI7jE.1kYYQ2rl6zWKUpAU) |
+  | Passcode: `nGXU*u68` | Passcode: `dd!M3.?@` | Passcode: `x9.&TYAg` |
+
+  </p></details></li>
+
+  </ul>
+
+  </p></details></li>
+
+</p></details>
+
+___
+<details><summary><strong>Unit 4</strong> - Vue.js | Python | Django</summary><p>
+
+<ul type="none">
+
+  <li><details><summary><strong>Week 10</strong></summary><p>
+
+  <p>
+  In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Vue Intro](https://github.com/SEI-R-6-21/u4_lesson_vue_introduction) | [Vue Events & Emitters](https://github.com/SEI-R-6-21/u4_lesson_vue_events_emitters) | [Vue w/ APIs](https://github.com/SEI-R-6-21/u4_lesson_vue_APIs) | [Portfolio Lab]() | [Intro to Python](https://github.com/SEI-R-6-21/u4_lesson_python_intro) |
+  | [Vue Components & Props](https://github.com/SEI-R-6-21/u4_lesson_vue_components_props) | [Portfolio Lab]() | [Vue API Lab](https://github.com/SEI-R-6-21/u4_lab_vue_API) | [Vue Router](https://github.com/SEI-R-6-21/u4_lesson_vue_router) | [Python Functions](https://github.com/SEI-R-6-21/u4_lesson_python_functions) |
+  | [Vue State](https://github.com/SEI-R-6-21/u4_lesson_vue_state) | Outcomes | [Vue Rock, Paper, Scissor Lab / HW](https://github.com/SEI-R-6-21/u4_lab_vue_rock_paper_scissor) | [Vue RAWG Lab / HW](https://github.com/SEI-R-6-21/u4_hw_vue_RAWG) | [Python Control Flow](https://github.com/SEI-R-6-21/u4_lesson_python_control_flow) |
+  | [Vue Directives](https://github.com/SEI-R-6-21/u4_lesson_vue_directives) |  |  |  | [Python Lists & Loops](https://github.com/SEI-R-6-21/u4_lesson_python_lists_loops) |
+  | [Vue Quiz](https://forms.gle/oPjffTCpfCU2sCGw9) |  |  |  | [Python Dictionaries](https://github.com/SEI-R-6-21/u4_lesson_python_dictionaries) |
+  |  |  |  |  | [Python Choose Your Own Adventure HW](https://github.com/SEI-R-6-21/u4_hw_python_adventure) |
+
+   <ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/VEWSr_IzJo7D0IaI-J5iDt97W4JOY4xTfBptrIgQUg56J1tc8q8QvVNwKJs0JsZA.4DLkQVHjMaYXWm_D) | [Recording](https://generalassembly.zoom.us/rec/share/c2_vfhIyeEsoiHOXXMsoI3121KvlPcf1oKO0xqD7VzvYxqWj8e70ZiKG-V_AUdM.qJUzjSJT5gMSfiqd) | [Recording](https://generalassembly.zoom.us/rec/share/kcMLaelyvDOiCo9tOLVEObSP5fAu-cwP3aru4yr-wnBNUFpqHoG8cx6Gme3F9HkU.fwnlTvGrtVDLsy2i) | [Recording](https://generalassembly.zoom.us/rec/share/mknk_D0igQwnaQX8C2QENUnas8B2Mc9W00XPBgzl3IW4zEAS8Bn2y-uG4hrRJIuR.vCiZbxMXN7rvC_-p) | No Recording |
+  | Passcode: `H6s6#*#2` | Passcode: `3DDLbP&%` | Passcode: `6MsS!%kZ` | Passcode: `x9Aj0=M3` |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/MKvTT3MLLacRz93bsluULCOUPyGMIZDTBq_69SNZnbmqk_ScoVi5P_6Rt2l99lIn.bDo2YJmgl09StTRM) | [Recording](https://generalassembly.zoom.us/rec/share/2FB9FLA2cS2ho2PrPYS4IPSZXXV4agkXGti9vBTyPka2mQXaSGYEfycMaCORDfm-.mEBSQ2h8c5jbgQwi) | [Recording](https://generalassembly.zoom.us/rec/share/1vJPQv9Na45qcbQ--tzFzQNDrUUQKEh2vB3wyn7qQZoSGi0t1j-_pH60Vd9uItMy.E9v_wEh-wEjSMacf) | [Recording](https://generalassembly.zoom.us/rec/share/S1ZPRdgct4_sg_PHSRHMRyHHnWPy1OG36i-IfO8Jy-lJ3dKdKhJpTPXCnn-6-7MQ.oj8K8_8SJsW5sxAx) | [Recording](https://generalassembly.zoom.us/rec/share/BxUA9tIaU47ze-U7_fvrdKEp7b7Rs-QWhFy9sh-1QVfI5FNCpg7KOOTAfMYYdnCA.En5u9T0mJdclQKRM) |
+  | Passcode: `mZc6@*0$` | Passcode: `WKgs?2.i` | Passcode: `pC3F%wJF` | Passcode: `t+u50v1?` | Passcode: `c3niK#v@` |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Recording](https://generalassembly.zoom.us/rec/share/GWawMG1FWrdm6Pczv0z5lCksPeIVNG1vELjEZD0mK2nhtHkaactW1UBPMyOLWyop.RCIAdGihnbXQHMfe) | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/YuxWM_KLgQmhDDjc2HQSHEChafuX6JNmetcGuuPzLYpa5kkUCQhs3uZh5d74Zt0e.IgT1DsM5bJHjzBlA) | [Recording](https://generalassembly.zoom.us/rec/share/UjzXoFgUXR0ynS8ZpcAHd__U8dzt5Qs1Q_P_6_ISvRMUxrESLZK1YpmzcSrnorIr.6ps1hjNHOSpr6euE) | No Recording |
+  | Passcode: `79.5Yqx$` |  | Passcode: `!UxuaEw1` | Passcode: `b%HnM*W9` |  |
+
+  </p></details></li>
+
+  </ul>
+
+  ___
+  </p></details></li>
+
+  <li><details><summary><strong>Week 11</strong></summary><p>
+
+  <p>
+  In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. At the end of the week, we begin our <b>Capstone Project</b>!
+  </p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [Python Tuples](https://github.com/SEI-R-6-21/-u4_lesson_python_tuples) | [Django Intro](https://github.com/SEI-R-6-21/u4_lesson_django_intro) | [Django REST API Lesson](https://github.com/SEI-R-6-21/u4_lesson_django_REST_API) | [P4 Planning Time](https://github.com/SEI-R-6-21/u4_project_prompt) | [Project Approvals](https://github.com/SEI-R-6-21/u4_project_prompt) |
+  | [Python Tuple Lab](https://github.com/SEI-R-6-21/u4_lab_python_tuple_exercise) | [Django Views](https://github.com/SEI-R-6-21/u4_lesson_django_views) | [Django REST API Lab / HW](https://github.com/SEI-R-6-21/u4_lab_django_REST_API) | []() | []() |
+  | [Python OOP](https://github.com/SEI-R-6-21/u4_lesson_python_OOP) | [NostalDja Lab / HW](https://github.com/SEI-R-6-21/u4_lab_nostaldja) | [P4 Prompt](https://github.com/SEI-R-6-21/u4_project_prompt) | []() | []() |
+  | [CSV Parser Lab](https://github.com/SEI-R-6-21/u4_lab_python_CSV_parser) | []() | []() | []() | []() |
+  | [Python Smash Bros HW](https://github.com/SEI-R-6-21/u4_hw_python_smash_bros) | []() | []() | []() | []() |
+
+  <ul type="none">
+
+  <li><details><summary>Class Recordings - Group 1</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Z-QyP2YXdGoYVH5FMKtMbkueON2HtJ2SytEz2Ce_lr800G4Wlzi87salpqgq7DYU.ojfLVjBIaC5Mhb5s) | [Recording](https://generalassembly.zoom.us/rec/share/v-EJn260ACoULVzTZYnC5MrsrWNzT3H8-ihTjpmu1VE7_tIQD1JnrTamIwxzOq0y.v5w4kZy7tNRdskwC) | No Recording | No Recording |
+  |  | Passcode: `84QCh@=*` | Passcode: `i4h^LC%X` |  |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 2</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Z-QyP2YXdGoYVH5FMKtMbkueON2HtJ2SytEz2Ce_lr800G4Wlzi87salpqgq7DYU.ojfLVjBIaC5Mhb5s) | [Recording](https://generalassembly.zoom.us/rec/share/v-EJn260ACoULVzTZYnC5MrsrWNzT3H8-ihTjpmu1VE7_tIQD1JnrTamIwxzOq0y.v5w4kZy7tNRdskwC) | No Recording | No Recording |
+  |  | Passcode: `84QCh@=*` | Passcode: `i4h^LC%X` |  |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Group 3</summary><p>
+
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
+  |:---:|:---:|:---:|:---:|:---:|
+  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Z-QyP2YXdGoYVH5FMKtMbkueON2HtJ2SytEz2Ce_lr800G4Wlzi87salpqgq7DYU.ojfLVjBIaC5Mhb5s) | [Recording](https://generalassembly.zoom.us/rec/share/v-EJn260ACoULVzTZYnC5MrsrWNzT3H8-ihTjpmu1VE7_tIQD1JnrTamIwxzOq0y.v5w4kZy7tNRdskwC) | No Recording | No Recording |
+  |  | Passcode: `84QCh@=*` | Passcode: `i4h^LC%X` |  |  |
+
+  </p></details></li>
+
+  <li><details><summary>Class Recordings - Presentations</summary><p>
+
+  | Group 1 | Group 2 | Group 3 |
+  |:---:|:---:|:---:|
+  | [Recording]() | [Recording](https://generalassembly.zoom.us/rec/share/5xfGkqUaEt2UfsUpldePrX7s9jJhkdvTknrVAM-E3ZxHl47HymE83NKyU9fNj85Q.fl2fZEbtyTqiz_a8) | [Recording](https://generalassembly.zoom.us/rec/share/ZM0R3MJpbi8yuJmqF6laNqKyLdeYQixOyhssP8gJn0S17cWpi4IHv9CGkfCVoDGO.7zPC8BXzP3jPHeJ_) |
+  | Passcode: ` ` | Passcode: `Bc3A5W+#` | Passcode: `8@x.t#rS` |
+    
+  </p></details></li>
+
+  </ul>
+
+  </p></details></li>
+
+</p></details>
+
+___
+
+<details><summary><strong>Additional Resources</strong></summary><p>
+
+Below is a list of additional resources that were hand-picked by your instructors. If you find that you don't have the time during the immersive, these resources will still help to solidify your understanding of key concepts after graduation.
+
+  <ul type="none">
+    
+  <li><details><summary><strong>Tools</strong> - things to make you more efficient</summary><p>
+
+  - [Rectangle](https://rectangleapp.com/)
+  - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
+  - [Spectacle](https://www.spectacleapp.com/)
+  - [Trello](https://trello.com/)
+  - [Airtable](https://www.airtable.com/)
+  - [Asana](https://asana.com/)
+  - [Freehand](https://www.invisionapp.com/freehand)
+  - [LucidChart](https://www.lucidchart.com/pages/)
+  - [draw.io](https://app.diagrams.net/)
+  - [Whimsical](https://whimsical.com/)
+  - [Canva](https://www.canva.com/)
+  - [Figma](https://www.figma.com/)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Practice</strong> - sites to hone your skills</summary><p>
+
+  - [Codeacademy](https://www.codecademy.com/catalog)
+  - [freeCodeCamp](https://www.freecodecamp.org/learn/)
+  - [Codewars](https://www.codewars.com)
+  - [Udemy](https://www.udemy.com/)
+  - [Programiz](https://www.programiz.com/)
+  - [#JavaScript30](https://javascript30.com/)
+  - [CSS Battle](https://cssbattle.dev/)
+  - [CSS Diner](https://flukeout.github.io/)
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+  - [Grid Garden](https://cssgridgarden.com/)
+  - [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+  - [Flexbox Defense](http://www.flexboxdefense.com/)
+  - [Screeps](https://screeps.com/)
+  - [UX Design Masterclass](https://uxdesignmasterclass.com/)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Bookmarks</strong> - must-have resources</summary><p>
+  
+  - [W3Schools](https://www.w3schools.com/)
+  - [CSS Tricks](https://css-tricks.com/)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+  - [Stack Overflow](https://stackoverflow.com/)
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Reading</strong> - helpful articles and topics</summary><p>
+
+  - [10 Need-to-know Mac Terminal Commands](https://scotch.io/bar-talk/10-need-to-know-mac-terminal-commands)
+  - [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+  - [Medium: What Is An API?](https://medium.com/free-code-camp/what-is-an-api-in-english-please-b880a3214a82)
+  - [Medium: Higher Order Functions](https://medium.com/javascript-in-plain-english/4-must-know-higher-order-functions-in-javascript-411f85545881)
+  - [Medium: Local Git Repos vs Remote Repos](https://medium.com/swlh/git-local-repo-and-github-remote-repo-eae1c948fbf5)
+  - [Medium: Explaining API's](https://medium.com/javascript-in-plain-english/many-developers-struggle-with-explaining-apis-20a071d74596)
+  - [Naming Conventions in Database Modeling](https://vertabelo.com/blog/naming-conventions-in-database-modeling/)
+  - [JSON Web Tokens](https://jwt.io/introduction/)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Documentation</strong> - commonly used tech docs</summary><p>
+
+  - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  - [W3Schools CSS Docs](https://www.w3schools.com/cssref/default.asp)
+  - [React Docs](https://reactjs.org/docs/getting-started.html)
+  - [Mongoose Docs](https://mongoosejs.com/)
+  - [PostgreSQL](https://www.postgresql.org/docs/)
+  - [Sequelize Docs](https://sequelize.org/docs/v6/)
+  - [Python Docs](https://docs.python.org/3/)
+  - [Django Docs](https://docs.djangoproject.com/en/4.0/)
+
+  </p></details></li>
+
+  <li><details><summary><strong>Cheatsheets</strong> - quick references</summary><p>
+
+  - [Mac Terminal Commands Cheatsheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+  - [OhMyZsh Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
+  - [VSCode Keyboard Shortcut Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  - [JavaScript Cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
+  - [ES6 Cheatsheet](https://devhints.io/es6)
+  - [ERD Cheatsheet](https://drive.google.com/file/d/0B_spkK3eZiHmZTZhczVTaVZxUFU/view?resourcekey=0-pvJ1STXJ4xEpjqpFWQtUhg)
+  - [iOS Resolutions](http://iosres.com/)
+  - [Flexbox Playground](https://codepen.io/GAmarketing/pen/QWWJvLx)
+  - [Layoutit!](https://grid.layoutit.com/)
+  - [Named Colors & Hex Equivalents](https://css-tricks.com/snippets/css/named-colors-and-hex-equivalents/)
+  - [Regex Cheatsheet](https://www.rexegg.com/regex-quickstart.html)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Deployment</strong> - get your projects online</summary><p>
+
+  - [Surge](https://surge.sh/)
+  - [Heroku](https://www.heroku.com/)
+  - [Netlify](https://www.netlify.com/)
+  - [Vercel](https://vercel.com/)
+  - [AWS](https://aws.amazon.com/codedeploy/)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>CSS Libraries</strong> - Use differet libraries to vamp up your apps</summary><p>
+
+  - [Nostalgic](http://nostalgic-css.github.io/)
+  - [Jdan](http://jdan.github.io/)
+  - [Bootstrap](https://getbootstrap.com/)
+  - [Kushagra](http://kushagra.dev/)
+  - [Tachyons](http://tachyons.io/)
+  - [Bulma](https://bulma.io/)
+  - [Foundation](https://foundation.zurb.com/)
+  - [Skeleton](http://getskeleton.com/)
+  - [Groundwork](https://groundworkcss.github.io/)
+  - [Victory Chart Visualizations](https://formidable.com/open-source/victory/)
+  - [TailwindCSS](https://tailwindcss.com/)
+  - [Material UI](https://mui.com/)
+  - [Materialize](https://materializecss.com/)
+  - [Semantic UI](https://semantic-ui.com/)
+  - [React MD](https://mlaursen.github.io/react-md-v1-docs/#/)
+  - [React Suite](https://rsuitejs.com/)
+  - [React Rainbow](https://react-rainbow.io/)
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Animations, Images, Sounds, Fonts & Icons</strong> - Add fun CSS to your projects</summary><p>
+
+  - [Animate Style](https://animate.style/) - animations
+  - [CSS Wand](https://www.csswand.dev/) - animations
+  - [Wah.css](http://www.joerezendes.com/projects/Woah.css/) - animations
+  - [LottieFiles](https://lottiefiles.com/) - animations
+  - [500+ icons](https://css.gg/) - icons
+  - [Font Awesome](https://fontawesome.com/?from=io) - icons
+  - [iconFinder](https://www.iconfinder.com/) - icons
+  - [Google Fonts](https://fonts.google.com/) - fonts
+  - [Font Joy](https://fontjoy.com/) - fonts
+  - [WebFont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - fonts
+  - [CSS Gradient](https://cssgradient.io/) - gradients
+  - [Trianglify](https://trianglify.io/) - poly backgrounds
+  - [Unsplash](https://unsplash.com/) - images
+  - [Pixabay](https://pixabay.com/) - images
+  - [opengameart](https://opengameart.org/) - images
+  - [imgur](https://imgur.com/) - images
+  - [Itch](http://itch.io/) - images
+  - [Zap Splat](http://zapsplat.com/) - sounds
+  - [Open Game Art](https://opengameart.org/content/library-of-game-sounds) - sounds
+  - [FreeSound.org](https://freesound.org/) - sounds
+  
+  </p></details></li>
+
+  <li><details><summary><strong>Color Palletes</strong> - Color match or check out color schemes</summary><p>
+
+  - [Color Hunt](https://colorhunt.co/)
+  - [Flat UI Colors](https://flatuicolors.com/)
+  - [Coolors](https://coolors.co/)
+  - [Color palette Generator](https://www.canva.com/colors/color-palette-generator/)
+  - [Happy Hues](https://www.happyhues.co/)
+  - [Materialui](https://www.materialui.co/flatuicolors)
+  - [Adobe Color](https://color.adobe.com/create/color-wheel)
+  
+  </p></details></li>
+    
+  <li><details><summary><strong>YouTube Channels</strong> - watch and learn</summary><p>
+
+  - [Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  - [Fireship](https://www.youtube.com/c/Fireship)
+  - [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+  - [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+  - [GitHub Training & Guides](https://www.youtube.com/githubguides)
+  - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+  
+  </p></details></li>
+
+</p></details>
+
+___
