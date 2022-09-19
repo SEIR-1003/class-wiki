@@ -334,7 +334,9 @@ ____
     
 
 ___
-<details><summary><strong>Unit 2</strong> - React | MongoDB | Express</summary><p>
+   
+   
+<details><summary><strong>Unit 2</strong> - React </summary><p>
 
 <ul type="none">
 
