@@ -46,6 +46,18 @@ ____
 
 ____
 
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/Inhk8OE.jpeg" alt="tiffany">
+  <h3>Tiffany Pereira</h3>
+  <h4>Instructional Associate</h4>
+  <p>My name is Tiffany, I live in Boston and I will be one of your <b>Instructor Associates (IA)</b>. Having completed GA in May, I understand the challenges that come with learning these new languages and concepts. </p>
+  <p>During my time in the course I discovered my interest in backend programming and languages such as SQL and python. Besides programming I enjoy finding new TV shows to binge watch, traveling, and photography. I look forward to helping you all have the best learning experience and dive into the world of Tech!</p>
+  <span><a href="https://github.com/tiffpereira">GitHub</a> | <a href="https://www.linkedin.com/in/tiffanympereira/">LinkedIn</a></span>
+  <br>
+</div>
+
+____
+
 
 
 <li><details><summary><strong>Teaching Assistants</strong></summary><p>
