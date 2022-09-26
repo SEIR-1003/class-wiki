@@ -309,7 +309,6 @@ ____
 
   </p></details></li>
 
-  <
   </ul>
 
   ___
@@ -341,8 +340,12 @@ ____
  | Passcode: `?LFQl60#` | Passcode: `J=f%bw50` | Passcode: `M5$66H=$` | Passcode: `s#Hq=6f1` | Passcode: `89TsvI$8` |
 
  </p></details></li>
-
  
+  </ul>
+
+  </p></details></li>
+
+</p></details>
     
 
 ___
@@ -400,7 +403,7 @@ ___
   |  |  | [Full Stackathon Planning HW](https://github.com/SEI-R-6-21/u2_full_stackathon) |  | Password: `Z7Z##V0W` |
 
 
-  <li><details><summary>Class Recordings /summary><p>
+  <li><details><summary>Class Recordings </summary><p>
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
@@ -408,6 +411,12 @@ ___
   | Passcode: `Efdc%P6e` | Passcode: `68u4%%5R` | Passcode: `ogr6+=*3` | Passcode: `Pk@+kK2V` | Passcode: `NB?fkf6X` |
 
   </p></details></li>
+  
+  </ul>
+
+  </p></details></li>
+
+</p></details>
 
  
  
@@ -435,7 +444,7 @@ ___
   <ul type="none">
 
   <li><details><summary>Class Recordings - Group 1</summary><p>
-
+  
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
   | [Recording](https://generalassembly.zoom.us/rec/share/Njd8aZlDRs4YwUJiD0obdcbpS0EsG2_TdNg0wwAp6tqyBex77XvLz-9OFWZ3Y8iz.LvrF-j3SbJAMmrCJ) | [Recording](https://generalassembly.zoom.us/rec/share/tnEbx2Eshav-6yHJHb_covf1fdEyhsNbAQjKjMKK-RY-Ln6KlxOrRJK4sPU__6Ih.mH1G4tWKHxKVnjL5) | [Recording](https://generalassembly.zoom.us/rec/share/BNj77uE1oJ8nhaoabjPM2H_99MkSBbc0-ALd12WYsv1YHA0TdafARq8ga3ESSj7Z.VAo5ix_kgxJuEZGl) | [Recording](https://generalassembly.zoom.us/rec/share/OPuevZrW40wABVtNs96DxOyJuBTDezMFbI0Dzin0TLbylF1JSVWyKkpvVQoiazAJ.TmsouU9cMd9ebU86) | [Recording](https://generalassembly.zoom.us/rec/share/tbpaCQi8PGp_jL2ODLbUQ6zQNq7r0Ft3QftXrCWqStNzDmoZZ6cAjT4PiGW7Lr-H.04TCqJrv4qAMmUVE) |
