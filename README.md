@@ -269,9 +269,9 @@ The following dates are observed Holidays for this immersive.  There will be no 
 
 | Holiday | Date(s) |
 |:---:|:---:|
-| Juneteenth | June 20th, 2022 (Observed) |
-| Independence Day | July 4th, 2022 |
-| Labor Day | September 5th, 2022 |
+| Veterans Day | November 11, 2022 |
+| Thanksgiving | November 23- November 25, 2022 |
+| Winter Break | December 26th- January 2, 2022 |
 
 </p></details></li>
 
@@ -290,7 +290,7 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Juneteenth | [Unit 1 Installations](https://github.com/SEI-R-6-21/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
+  | | [Unit 1 Installations](https://github.com/SEI-R-6-21/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
   |  | [Terminal Lesson](https://github.com/SEI-R-6-21/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-6-21/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-6-21/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-6-21/u1_lesson_intro_DOM) |
   |  | [Git Lesson](https://github.com/SEI-R-6-21/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-6-21/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-6-21/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-6-21/u1_lab_DOM_quotes) |
   |  | [VS Code Lesson](https://github.com/SEI-R-6-21/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-6-21/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-6-21/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-6-21/u1_lesson_js_events) |
