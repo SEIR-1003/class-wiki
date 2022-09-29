@@ -9,7 +9,7 @@ Welcome to the <b>SEI-R-10-03 Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
 
-<b>Deliverable Pull Request Guidelines</b> can be found [here](https://github.com/SEI-R-6-21/template_pull_request).
+<b>Deliverable Pull Request Guidelines</b> can be found [here](https://github.com/bmorataya3/Pull-Request-Template).
 
 <b>Daily Javascript Challenges</b> can be found [here](https://github.com/SEI-R-6-21/daily_js_challenges).
 
