@@ -8,12 +8,20 @@ ___
 Welcome to the <b>SEI-R-10-03 Class Wiki</b>.
 
 This repository is a place where links to all of the course content that we cover can be found. Content is organized by <i>Unit</i> and <i>Week</i> with lesson repos and class recordings for each day.
+<br>
 
-<b>Deliverable Pull Request Guidelines</b> can be found [here](https://github.com/bmorataya3/Pull-Request-Template).
 
-<b>Daily Javascript Challenges</b> can be found [here](https://github.com/SEI-R-6-21/daily_js_challenges).
+<div align="center" display:"row">
+<b>Images below are links for the following</b>
 
-<b>Computer Science - Algorithms & Data Structures</b> can be found [here](https://github.com/SEI-R-6-21/cs_data_structures).
+
+
+<a href="https://github.com/bmorataya3/Pull-Request-Template" target="_blank"><img src="https://i.imgur.com/WYBWzSth.png" alt="Template" height="160" width="150"></a> &nbsp; 
+<a href="https://github.com/SEI-R-6-21/daily_js_challenges" target="_blank"><img src="https://i.imgur.com/W2YYUOPb.png" alt="Template"></a>  &nbsp; 
+<a href="https://github.com/SEI-R-6-21/cs_data_structures" target="_blank"><img src="https://i.imgur.com/Bq75otNm.png" alt="Template" height="160" width="175" ></a>
+</div>
+
+
 
 ____
 <details><summary><strong>General Assembly Team</strong></summary><p>
@@ -70,7 +78,7 @@ ____
   <img width="200px" src="https://i.imgur.com/a5jjxUf.jpg" alt="kristina">
   <h3>Kristina Vanbergen-DeSilva</h3>
   <h4>Teaching Assistant</h4>
-  <p></p>
+  <p>My name is Kristina and I will be one of your Teaching Assistants. I am a recent GA grad from New York, interested in full-stack development and experienced with React/Vue on the front-end & SQL on the backend, Before becoming a developer, I worked for several years teaching children as a nanny, and teaching volunteers at a non-profit organization. Very excited to bring that experience to GA and welcome a new cohort of future software engineers!</p>
   <span><a href="https://github.com/kavdesilva">GitHub</a>  | <a href="https://www.linkedin.com/in/kristina-vanbergen-desilva/">LinkedIn</a></span>
   <br>
 </div>
