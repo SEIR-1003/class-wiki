@@ -255,10 +255,10 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Unit 1 Installations](https://github.com/SEI-R-6-21/u1_installations)| [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [JS Datatypes](https://github.com/SEI-R-6-21/u1_lesson_js_data_types)  |  [JS Functions](https://github.com/SEI-R-6-21/u1_lesson_js_functions) | [JS Daily Challenges](https://github.com/SEIR-1003/daily_js_challenges)
+  | [InstallFest](https://github.com/SEI-R-6-21/u1_installations)| [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [JS Datatypes](https://github.com/SEI-R-6-21/u1_lesson_js_data_types)  |  [JS Functions](https://github.com/SEI-R-6-21/u1_lesson_js_functions) | [Intro Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)
   |  [Git Lesson](https://github.com/SEI-R-6-21/u1_lesson_git) | [Intro to HTML](https://github.com/SEI-R-6-21/u1_lesson_intro_HTML) | [JS Arrays](https://github.com/SEI-R-6-21/u1_lesson_js_arrays)| [JS Scope](https://github.com/SEI-R-6-21/u1_lesson_js_scope) | [JS Events](https://github.com/SEI-R-6-21/u1_lesson_js_events)
   | [Terminal Lesson](https://github.com/SEI-R-6-21/u1_lesson_terminal) | [Grumpy Cat Resume](https://github.com/SEIR-1003/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-6-21/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEI-R-6-21/u1_lesson_js_objects) | [JS Dots Game Lab](https://github.com/SEI-R-6-21/u1_lab_dots)| 
-  |  [VS Code Lesson](https://github.com/SEI-R-6-21/u1_lesson_VSCode)| [Intro to CSS](https://github.com/SEI-R-6-21/u1_lesson_intro_CSS) | OUTCOMES   | [Jurassic Objects Lab](https://github.com/SEI-R-6-21/u1_lab_jurassic_objects) | [Tic Tac Toe HW](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe)  | |
+  |  [VS Code Lesson](https://github.com/SEI-R-6-21/u1_lesson_VSCode)| [Intro to CSS](https://github.com/SEI-R-6-21/u1_lesson_intro_CSS) | OUTCOMES   | [Jurassic Objects Lab](https://github.com/SEI-R-6-21/u1_lab_jurassic_objects) |   | |
   | [Star Wars HW](https://github.com/SEIR-1003/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-1003/u1_lesson_flex_grid) | [Control Flow Adventure HW](https://github.com/SEI-R-6-21/u1_hw_control_flow_adventure)  | [CodeWars](https://github.com/SEIR-1003/u1_hw_codewars_challenges) | |
   |  | [Fashion blog](https://github.com/SEIR-1003/Fashion-Blog)  |  | |  |
 
@@ -286,11 +286,11 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [Intro Daily JS Challenges](https://github.com/SEI-R-6-21/daily_js_challenges)| NO CLASS |[Intro to OOP](https://github.com/SEI-R-6-21/u1_lesson_OOP)  |  [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs)| Project 1 Prompt |
-  | [ES6 Syntax](https://github.com/SEI-R-6-21/u1_lesson_ES6)  |  | [OOP Exercise Lab](https://github.com/SEI-R-6-21/u1_lab_OOP_exercise) | JS KAHOOT | [Project Time](https://github.com/SEI-R-6-21/u1_project_prompt)|
-  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice)  | |  [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
-  | [JS HOF](https://github.com/SEI-R-6-21/u1_lesson_HOF) |  | OUTCOMES | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
-  | [JS HOF HW](https://github.com/SEI-R-6-21/u1_hw_HOF) |  |  | [P1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt) |  |
+  |  [Daily JS Challenges](https://github.com/SEI-R-6-21/daily_js_challenges)| |[Intro to OOP](https://github.com/SEI-R-6-21/u1_lesson_OOP)  |  [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs)| [Project 1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt)|
+  | [Tic Tac Toe HW](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe)  | [ES6 Syntax](https://github.com/SEI-R-6-21/u1_lesson_ES6)  | [OOP Exercise Lab](https://github.com/SEI-R-6-21/u1_lab_OOP_exercise) | JS KAHOOT | Project Time|
+  |  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice)|  [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
+  |  | [JS HOF](https://github.com/SEI-R-6-21/u1_lesson_HOF) | OUTCOMES | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
+  |  | [JS HOF HW](https://github.com/SEI-R-6-21/u1_hw_HOF) |  | [P1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt) |  |
 
  <ul type="none">
 
