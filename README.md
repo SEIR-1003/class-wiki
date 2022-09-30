@@ -85,17 +85,27 @@ ____
 
 ____
 
+ <div align="center">
+  <img width="200px" src="https://i.imgur.com/vmYBpd8h.jpg" alt="default">
+  <h3>Jay Thurber</h3>
+  <h4>Instructor Associate</h4>
+  <p>Hey everyone! I’m Jay and I will be one of your Instructional Associates for this course! I worked as a nurse for 10 years before taking the plunge into tech, graduating General Assembly’s SEIR program in October 2021, and have since been both an IA and TA for five cohorts. I love hyping up and motivating my students, as well as being a part of those “Aha!” moments, especially considering I was a student like yourselves not long ago!
+In my free time, you can find me playing board games with my wife and friends, hiking with my two dogs, cooking, watching anime, working on personal projects, and as of recently climbing! :woman_climbing:</p> 
+ <span><a href="https://github.com/jthurber87">GitHub</a> | <a href="https://www.linkedin.com/in/jthurber87/">LinkedIn</a></span> 
+  <br>
+</div>
+
+____
+
  <!-- <div align="center">
   <img width="200px" src="https://i.imgur.com/dH5Pznf.png" alt="default">
-  <h3>Raahima Ahmed</h3>
+  <h3>Tylus Dawkins</h3>
   <h4>Teaching Assistant</h4>
   <!--   <p>Hello everyone, I am a default placeholder for an instructors introduction paragraph. This instructor's role will be to be a faceless representation of what an instructor might be, but nothing more. They will lead no lessons, they will offer no help, they will father no sons. They are void.</p>
   <p>I am nothing but a filler for where an instructor might put their personal brand statement! I just sit here and fill space so that the developer can see what it might look like when an instructor has actually provided them with their intro. I have no purpose beyond that and my existence is meaningless!</p> -->
   <!--   <span><a href="https://github.com/">GitHub</a> | <a href="https://linkedin.com/">LinkedIn</a></span> -->
   <br>
 </div>
-
-
 
 
 ____
