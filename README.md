@@ -245,13 +245,12 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | | [Unit 1 Installations](https://github.com/SEI-R-6-21/u1_installations) | [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [Flexbox Froggy](https://flexboxfroggy.com/) | [Grid Garden](https://cssgridgarden.com/) |
-  |  | [Terminal Lesson](https://github.com/SEI-R-6-21/u1_lesson_terminal) | [Intro to HTML](https://github.com/SEI-R-6-21/u1_lesson_intro_HTML) | [JS Datatypes](https://github.com/SEI-R-6-21/u1_lesson_js_data_types) | [Intro to JS DOM](https://github.com/SEI-R-6-21/u1_lesson_intro_DOM) |
-  |  | [Git Lesson](https://github.com/SEI-R-6-21/u1_lesson_git) | [Intro to CSS](https://github.com/SEI-R-6-21/u1_lesson_intro_CSS) | [JS Arrays](https://github.com/SEI-R-6-21/u1_lesson_js_arrays) | [JS DOM Quotes Lab](https://github.com/SEI-R-6-21/u1_lab_DOM_quotes) |
-  |  | [VS Code Lesson](https://github.com/SEI-R-6-21/u1_lesson_VSCode) | [Fake Resume Lab](https://github.com/SEI-R-6-21/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-6-21/u1_lesson_loops_and_control_flow) | [JS Events](https://github.com/SEI-R-6-21/u1_lesson_js_events) |
-  |  | [Star Wars HW](https://github.com/SEI-R-6-21/u1_hw_star_wars) | [Flexbox / Grid](https://github.com/SEI-R-6-21/u1_lesson_flex_grid) | [JS Functions](https://github.com/SEI-R-6-21/u1_lesson_js_functions) | [JS Dots Game Lab](https://github.com/SEI-R-6-21/u1_lab_dots) |
-  |  |  | [Markdown / ReadMe HW](https://github.com/SEI-R-6-21/u1_hw_markdown) | [JS Scope](https://github.com/SEI-R-6-21/u1_lesson_js_scope) | [Tic Tac Toe HW](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe) |
-  |  |  |  | [Control Flow Adventure HW](https://github.com/SEI-R-6-21/u1_hw_control_flow_adventure) |  |
+  | [Unit 1 Installations](https://github.com/SEI-R-6-21/u1_installations)| [Github / Homework Submission](https://github.com/SEI-R-6-21/u1_lesson_github) | [JS Datatypes](https://github.com/SEI-R-6-21/u1_lesson_js_data_types)  |  [JS Functions](https://github.com/SEI-R-6-21/u1_lesson_js_functions) | [JS Daily Challenges](https://github.com/SEIR-1003/daily_js_challenges)
+  |  [Git Lesson](https://github.com/SEI-R-6-21/u1_lesson_git) | [Intro to HTML](https://github.com/SEI-R-6-21/u1_lesson_intro_HTML) | [JS Arrays](https://github.com/SEI-R-6-21/u1_lesson_js_arrays)| [JS Scope](https://github.com/SEI-R-6-21/u1_lesson_js_scope) | [JS Events](https://github.com/SEI-R-6-21/u1_lesson_js_events)
+  | [Terminal Lesson](https://github.com/SEI-R-6-21/u1_lesson_terminal) | [Grumpy Cat Resume](https://github.com/SEIR-1003/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEI-R-6-21/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEI-R-6-21/u1_lesson_js_objects) | [JS Dots Game Lab](https://github.com/SEI-R-6-21/u1_lab_dots)| 
+  |  [VS Code Lesson](https://github.com/SEI-R-6-21/u1_lesson_VSCode)| [Intro to CSS](https://github.com/SEI-R-6-21/u1_lesson_intro_CSS) | OUTCOMES   | [Jurassic Objects Lab](https://github.com/SEI-R-6-21/u1_lab_jurassic_objects) | [Tic Tac Toe HW](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe)  | |
+  | [Star Wars HW](https://github.com/SEIR-1003/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-1003/u1_lesson_flex_grid) | [Control Flow Adventure HW](https://github.com/SEI-R-6-21/u1_hw_control_flow_adventure)  | [CodeWars](https://github.com/SEIR-1003/u1_hw_codewars_challenges) | |
+  |  | [Fashion blog](https://github.com/SEIR-1003/Fashion-Blog)  |  | |  |
 
   <ul type="none">
 
@@ -259,8 +258,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording | [Recording](https://generalassembly.zoom.us/rec/share/Bwq1Yvcq2HmEgEHqGCvqA2LskqoW3Lvrb82NBALtXhQolp6jOsXFy966LZSsS2QM.rUykEt9njsftFyYS) | [Recording](https://generalassembly.zoom.us/rec/share/iCDm7dcSzVZn_v04h27AMb8zJ7CRc7rd-W56YbibjhUCu9s3pSkc3JVICE8LytYC.jHi2rFfNWtUnGTVp) | [Recording](https://generalassembly.zoom.us/rec/share/xCLmzuxguF_1HDbLpSSE93SFf_unIdKka1ssHqTMhkkHXBk5xulk2P-lPAtiiTMa.06ZamzeEfGIUuwl5) | [Recording](https://generalassembly.zoom.us/rec/share/09J0geeX7xxO9uppRFsldrXNpUdMZvjAT2Fu-PH2OZ-QEL3zIWTk_vdKD6cbYrk.IMHTUjaVj0jthbs9) |
-  |  | Passcode: `%%b6k4HS` | Passcode: `$y0iMgLH` | Passcode: `zaZ+0f#Z` | Passcode: `x@+$VLU2` |
+  | No Recording  [Recording]| No Recording  [Recording]|No Recording  [Recording]| No Recording  [Recording]| No Recording  [Recording]|
+  | Passcode: ``  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
 
   </p></details></li>
 
@@ -277,11 +276,11 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | Outcomes Orientation | [Intro Daily JS Challenges](https://github.com/SEI-R-6-21/daily_js_challenges) | [ES6 Syntax](https://github.com/SEI-R-6-21/u1_lesson_ES6) | [Box Model Practice](https://github.com/SEI-R-6-21/u1_lab_box_model) | [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) |
-  | [Tic Tac Toe Work Time](https://github.com/SEI-R-6-21/u1_hw_tic_tac_toe) | [JS Objects](https://github.com/SEI-R-6-21/u1_lesson_js_objects) | [ES6 Lab](https://github.com/SEI-R-6-21/u1_lab_ES6_practice) | [Intro to OOP](https://github.com/SEI-R-6-21/u1_lesson_OOP) | [Dogs API Lab](https://github.com/SEI-R-6-21/u1_lab_API_dogs) |
-  |  | [Jurassic Objects Lab](https://github.com/SEI-R-6-21/u1_lab_jurassic_objects) | [JS HOF](https://github.com/SEI-R-6-21/u1_lesson_HOF) | [OOP Exercise Lab](https://github.com/SEI-R-6-21/u1_lab_OOP_exercise) | [TMDB Lab / HW](https://github.com/SEI-R-6-21/u1_lab_TMDB_API) |
-  |  | [CodeWars HW](https://github.com/SEI-R-6-21/u1_hw_codewars_challenges) | [JS HOF Lab](https://github.com/SEI-R-6-21/u1_lab_HOF) | [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [P1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt) |
-  |  | Outcomes | [JS HOF HW](https://github.com/SEI-R-6-21/u1_hw_HOF) | [JS Fast & Furious HW](https://github.com/SEI-R-6-21/u1_hw_fast_and_furious) |  |
+  |  [Intro Daily JS Challenges](https://github.com/SEI-R-6-21/daily_js_challenges)| NO CLASS |[Intro to OOP](https://github.com/SEI-R-6-21/u1_lesson_OOP)  |  [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs)| Project 1 Prompt |
+  | [ES6 Syntax](https://github.com/SEI-R-6-21/u1_lesson_ES6)  |  | [OOP Exercise Lab](https://github.com/SEI-R-6-21/u1_lab_OOP_exercise) | JS KAHOOT | [Project Time](https://github.com/SEI-R-6-21/u1_project_prompt)|
+  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice)  | |  [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
+  | [JS HOF](https://github.com/SEI-R-6-21/u1_lesson_HOF) |  | OUTCOMES | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
+  | [JS HOF HW](https://github.com/SEI-R-6-21/u1_hw_HOF) |  |  | [P1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt) |  |
 
  <ul type="none">
 
@@ -293,7 +292,7 @@ ____
  |:---:|:---:|:---:|:---:|:---:|
  | [Recording](https://generalassembly.zoom.us/rec/share/pmVmg2K5KlQxeQOXA15fMJOEupdJejX5uRx7UhI1M_A3MBUcv71X6Mb-xogvysxa.3lz3tzxTSpQ0e2Km) | [Recording](https://generalassembly.zoom.us/rec/share/wnxiXplM0IxZmoalfv3dQ2c9RCY3bhmkatMs7Vi7jWacfK9PdsirT_3ryUf4Q4t7.t-Tzz4KXNKtpKxSw) | [Recording](https://generalassembly.zoom.us/rec/share/9KYtNdHN8LzoPxBO-d50tqLPWEisjAY22wnWwUjkrflyq8fIXVkkuQdBVIhQc2fJ.Dc7-ab3PsmL72s8o) | [Recording](https://generalassembly.zoom.us/rec/share/vlQCTwJLkBNBr4PPb_fW_7FKlN5FIEiUoGibvhsq6NaTlLlygnGAFUJFxHOcq2UU.CweFVcaIsY5uCiP0) | [Recording](https://generalassembly.zoom.us/rec/share/X4S_t7TZmxT5kUIhpUS2bFgTcqvOZD0DGHF9Cfvsuwl_9PJC8WNoMP4RVFKiZ7V2.xYck0nJmycbou7fl) |
  | Passcode: `?LFQl60#` | Passcode: `J=f%bw50` | Passcode: `M5$66H=$` | Passcode: `s#Hq=6f1` | Passcode: `89TsvI$8` |
-
+>
  </p></details></li>
  
   </ul>
