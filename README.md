@@ -185,7 +185,7 @@ Below, you will find Class Policies and Requirements as laid out in Orientation 
 <li><details><summary><strong>Deliverable Submission Requirements</strong></summary><p>
 
 <ul>
-  <li>Deliverables must be submitted following the <a href="https://github.com/SEI-R-6-21/template_pull_request">PR Guidelines</a>.</li>
+  <li>Deliverables must be submitted following the <a href="https://github.com/SEIR-1003/template_pull_request">PR Guidelines</a>.</li>
   <li>Students must meet deliverable requirements for the submission to be marked as "Complete".</li>
   <li>Deliverables are <i>always</i> due the following class day at the beginning of class, unless otherwise stated.</li>
   <li>There is a grace period for re-submission or late submission.  All re-submits/late submits are due the <b>Monday following the week of assignment</b>.
