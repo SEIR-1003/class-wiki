@@ -259,7 +259,7 @@ ____
   | [Terminal Lesson](https://github.com/SEIR-1003/u1_lesson_terminal)  | [Intro to HTML](https://github.com/SEIR-1003/u1_lesson_intro_HTML) | [JS Arrays](https://github.com/SEIR-1003/u1_lesson_js_arrays)| [JS Scope](https://github.com/SEIR-1003/u1_lesson_js_scope) | [JS Events](https://github.com/SEIR-1003/u1_lesson_js_events)
   |  [Git Lesson](https://github.com/SEIR-1003/u1_lesson_git) | [Grumpy Cat Resume](https://github.com/SEIR-1003/u1_lab_fake_resume) | [JS Loops & Control Flow](https://github.com/SEIR-1003/u1_lesson_loops_and_control_flow) | [JS Objects](https://github.com/SEIR-1003/u1_lesson_js_objects) | [JS Dots Game Lab](https://github.com/SEIR-1003/u1_lab_dots)| 
   |  [VS Code Lesson](https://github.com/SEIR-1003/u1_lesson_VSCode/blob/main/README.md)| [Intro to CSS](https://github.com/SEIR-1003/u1_lesson_intro_CSS) | [Data Types practice](https://github.com/SEIR-1003/U1_data_types_practice)  | [Jurassic Objects Lab](https://github.com/SEIR-1003/u1_lab_jurassic_objects) |   | |
-  | [Star Wars HW](https://github.com/SEIR-1003/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-1003/u1_lesson_flex_grid) | [Arrays ad Iteration Lab](https://github.com/SEIR-1003/u1_arrays_and_iteration_lab)  | [CodeWars](https://github.com/SEIR-1003/u1_hw_codewars_challenges) | |
+  | [Star Wars HW](https://github.com/SEIR-1003/u1_hw_star_wars)  | [Flex & Grid](https://github.com/SEIR-1003/u1_lesson_flex_grid) | [Arrays ad Iteration Lab](https://github.com/SEIR-1003/u1_arrays_and_iteration_lab)  | [CodeWars](https://github.com/SEIR-1003/u1_hw_codewars_challenges) | [Tic Tac Toe HW](https://github.com/SEIR-1003/u1_hw_tic_tac_toe) |
   |  | [Fashion blog](https://github.com/SEIR-1003/Fashion-Blog)  | [Control Flow Adventure HW](https://github.com/SEIR-1003/u1_hw_control_flow_adventure) | |  |
 
   <ul type="none">
@@ -286,11 +286,11 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| |[Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP)  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt)|
-  | [Tic Tac Toe HW](https://github.com/SEIR-1003/u1_hw_tic_tac_toe)  | [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6)  | [OOP Exercise Lab](https://github.com/SEIR-1003/u1_lab_OOP_exercise) | [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) | Project Time|
-  |  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice)|  [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
-  |  | [JS HOF](https://github.com/SEIR-1003/u1_hw_HOF) | OUTCOMES | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
-  |  | [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) |  | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
+  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) |[Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP)  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt)|
+  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |   | [OOP Exercise Lab](https://github.com/SEIR-1003/u1_lab_OOP_exercise) | [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) | Project Time|
+  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice) | |  [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
+  | Calculator |  | OUTCOMES | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
+  |  |  |  | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
 
  <ul type="none">
 
