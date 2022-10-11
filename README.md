@@ -286,10 +286,10 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) |[Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP)  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt)|
-  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |   | [OOP Exercise Lab](https://github.com/SEIR-1003/u1_lab_OOP_exercise) | [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) | Project Time|
-  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice) | |  [Donut Adventure Lab](https://github.com/SEI-R-6-21/u1_lab_donut_adventure) | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
-  | Calculator |  | OUTCOMES | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
+  |  [Daily JS Challenges](https://github.com/SEIR-1003/daily_js_challenges)| [JS HOF HW](https://github.com/SEIR-1003/u1_hw_HOF) | CSS Media Quieries  | JS KAHOOT | [Project 1 Prompt](https://github.com/SEI-R-6-21/u1_project_prompt)|
+  |  [ES6 Syntax](https://github.com/SEIR-1003/u1_lesson_ES6) |  [Intro to OOP](https://github.com/SEIR-1003/u1_lesson_OOP) | Wireframes| [Intro to APIs](https://github.com/SEI-R-6-21/u1_lesson_intro_to_APIs) | Project Time|
+  | [ES6 Lab](https://github.com/SEIR-1003/u1_lab_ES6_practice) | [OOP Exercise Lab](https://github.com/SEIR-1003/u1_lab_OOP_exercise)  |  OUTCOMES  | [Poke' API](https://github.com/SEIR-1003/u1_api-intro)|  
+  | Calculator |  | | [NYC Crime API](https://github.com/SEIR-1003/u1_api_lab/blob/main/README.md) |  |
   |  |  |  | [P1 Prompt](https://github.com/SEIR-1003/u1_project_prompt) |  |
 
  <ul type="none">
