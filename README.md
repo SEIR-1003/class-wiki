@@ -324,16 +324,17 @@ ___
    <p>
      In Week 4, we learn all about <b>React</b> and what an amazing JavaScript library it can be for developers. We learn the concepts of <b>components</b>, <b>props</b>, and about <b>React Hooks</b> and <b>functional components</b>. We learn about <b>useState</b> and how to use it to manage our state within our apps. We also get into how we can use <b>useEffect</b> to make axios calls in our React apps. Finally at the end of the week, we learn <b>React Router</b>, a powerful tool for navigating around our virtual DOM.
   </p>
-<!--
+
+
 | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to React](https://github.com/SEI-R-6-21/u2_lesson_intro_to_react) | [Component Hierarchy Diagrams](https://github.com/SEI-R-6-21/u2_lesson_component_hierarchy) | [Intro to State & Hooks](https://github.com/SEI-R-6-21/u2_lesson_state_and_hooks) | [Conditional Rendering](https://github.com/SEI-R-6-21/u2_lesson_conditional_rendering) | [React Router](https://github.com/SEI-R-6-21/u2_lesson_react_router) |
-  | [React Components](https://github.com/SEI-R-6-21/u2_lesson_react_components) | [Mapping Components](https://github.com/SEI-R-6-21/u2_lesson_react_mapping_components) | [Hooks ATM Lab](https://github.com/SEI-R-6-21/u2_lab_react_ATM) | [Conditional Rendering Lab](https://github.com/SEI-R-6-21/u2_lab_conditional_rendering) | [React Router Lab](https://github.com/SEI-R-6-21/u2_lab_react_router) |
-  | [React Props](https://github.com/SEI-R-6-21/u2_lesson_react_props) | [Mapping Contacts Lab](https://github.com/SEI-R-6-21/u2_lab_mapping_contacts) | [Likes Lab](https://github.com/SEI-R-6-21/u2_lab_likes) | [The useEffect Hook](https://github.com/SEI-R-6-21/u2_lesson_useEffect) | [MongoDB Install](https://github.com/SEI-R-6-21/u2_lesson_mongo_install) |
-  | [LOTR Lab](https://github.com/SEI-R-6-21/u2_lab_react_LOTR) | [Movie Mapping HW](https://github.com/SEI-R-6-21/u2_hw_movie_mapping) | [Groceries Lab (bonus)](https://github.com/SEI-R-6-21/u2_lab_groceries) | [React w/ APIs](https://github.com/SEI-R-6-21/u2_lesson_react_APIs) | [RAWG Router Lab / HW](https://github.com/SEI-R-6-21/u2_hw_RAWG_router) |
-  | [React Quiz HW](https://github.com/SEI-R-6-21/u2_hw_react_quiz) | Outcomes | [Dr. Who Lab (bonus)](https://github.com/SEI-R-6-21/u2_lab_dr_who) | [Kanye useEffect Lab](https://github.com/SEI-R-6-21/u3_lab_kanye_useEffect) |  |
-  |  |  | [Password Validator Lab (bonus)](https://github.com/SEI-R-6-21/u2_lab_password_validator) | [React Calculator HW](https://github.com/SEI-R-6-21/u2_hw_react_calculator) |  |
--->
+  | [Intro to React](https://github.com/SEIR-1003/u2_lesson_intro_to_react/blob/main/README.md) | [Component Hierarchy Diagrams](https://github.com/SEI-R-6-21/u2_lesson_component_hierarchy) | [React Router](https://github.com/SEIR-1003/u2_react_router_intro/blob/main/README.md)  |  [Intro to State & Hooks](https://github.com/SEIR-1003/u2_lesson_state_and_hooks) |[Calculator Lab](https://github.com/SEIR-1003/u2_react_calculator_lab/blob/main/README.md)|
+  | [LOTR Lab](https://github.com/SEIR-1003/u2_lab_react_LOTR)| [Mapping Components](https://github.com/SEIR-1003/u2_lesson_react_mapping_components-1) | [React Portfolio](https://github.com/SEIR-1003/u2_react_portfolio_lab/blob/main/README.md) | [Likes Lab](https://github.com/SEIR-1003/u2_lab_likes)|  |
+  | [Conditionals Lab](https://github.com/SEIR-1003/u2_lab_conditional_rendering) | [Mapping Lab](https://github.com/SEI-R-6-21/u2_lab_mapping_contactss) | OUTCOMES | [React Forms](https://github.com/SEIR-1003/u2_lesson_react_forms) |  |
+  | [Hello React HW](https://github.com/SEIR-1003/u2_hw_hello_react/blob/main/README.md)  | [Movie Mapping HW](https://github.com/SEIR-1003/u2_hw_movie_mapping) | | [Groceries Lab](https://github.com/SEIR-1003/u2_lab_groceries)  |  |
+  |  ||  | [ATM Lab](https://github.com/SEIR-1003/u2_lab_react_ATM) |  |
+  |  | |  | [Password Validator](https://github.com/SEIR-1003/u2_lab_password_validator) |  |
+
 <ul type="none">
 
  
