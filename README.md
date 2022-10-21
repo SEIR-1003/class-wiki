@@ -268,8 +268,8 @@ ____
 
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | No Recording  [Recording]| No Recording  [Recording]|No Recording  [Recording]| No Recording  [Recording]| No Recording  [Recording]|
-  | Passcode: ``  | Passcode: `` | Passcode: `` | Passcode: `` | Passcode: `` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/F7x31AAbNpltdeAAk2LyQRn3LlbOAGBDpIvZLJDiEV0JH3b1Cui9i3jFXFClJ3Tx.oIMAcARgVnSxZJbr)| [Recording](https://generalassembly.zoom.us/rec/share/6XpFfjj5sL92iwFkr9n4smh3RK_M5S6aZhpvXT-RxvG7LfMk4ooY6BOv9grkvbA2.G7DRfBnaujoZzJLD)|[Recording](https://generalassembly.zoom.us/rec/share/KptzSmjQ5LeWMCLEYrRO3PUxzfzGKo2e6HKO9AmPcED2Bg_N2KqOIgG_qspOUMUM.tICOh143LDWOWNjP)| [Recording](https://generalassembly.zoom.us/rec/share/LMCXrY7N9Gj9-QxOPYLTQYWCvDXQEhjr41U3eJZ4wCeP44YiEqKQcwhOM7gd21vD.5x0NPgXiMG4vcLe_)| [Recording](https://generalassembly.zoom.us/rec/share/1vVt0DXo66DKowCnkzqDMvPqY9bz-5JVJS8NIYu9lPsdN0VqgF784aST8lTGL-rI.wyKWm6jQtC_0hRwF)|
+  | Passcode: `w=?0kwr#`  | Passcode: `&sGpfTy9` | Passcode: ` z+5QD?Qv` | Passcode: `VRz9xNi.` | Passcode: `5rhb@.1&` |
 
   </p></details></li>
 
@@ -298,11 +298,11 @@ ____
 
  <li><details><summary>Class Recordings - Group 2</summary><p>
 
-<!-- | Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
  |:---:|:---:|:---:|:---:|:---:|
- | [Recording](https://generalassembly.zoom.us/rec/share/pmVmg2K5KlQxeQOXA15fMJOEupdJejX5uRx7UhI1M_A3MBUcv71X6Mb-xogvysxa.3lz3tzxTSpQ0e2Km) | [Recording](https://generalassembly.zoom.us/rec/share/wnxiXplM0IxZmoalfv3dQ2c9RCY3bhmkatMs7Vi7jWacfK9PdsirT_3ryUf4Q4t7.t-Tzz4KXNKtpKxSw) | [Recording](https://generalassembly.zoom.us/rec/share/9KYtNdHN8LzoPxBO-d50tqLPWEisjAY22wnWwUjkrflyq8fIXVkkuQdBVIhQc2fJ.Dc7-ab3PsmL72s8o) | [Recording](https://generalassembly.zoom.us/rec/share/vlQCTwJLkBNBr4PPb_fW_7FKlN5FIEiUoGibvhsq6NaTlLlygnGAFUJFxHOcq2UU.CweFVcaIsY5uCiP0) | [Recording](https://generalassembly.zoom.us/rec/share/X4S_t7TZmxT5kUIhpUS2bFgTcqvOZD0DGHF9Cfvsuwl_9PJC8WNoMP4RVFKiZ7V2.xYck0nJmycbou7fl) |
- | Passcode: `?LFQl60#` | Passcode: `J=f%bw50` | Passcode: `M5$66H=$` | Passcode: `s#Hq=6f1` | Passcode: `89TsvI$8` |
->   -->
+ | [Recording](https://generalassembly.zoom.us/rec/share/w1Rf-C5P2Iv7WwunynJKK_FLKehTpZoL9zXN9eQkaWOC1i85jMV34PqEXYjnX4Fv.WjhprUHr264TDDXb) | [Recording](https://generalassembly.zoom.us/rec/share/-4cxHk0me5QfUZxt8Ds4GE8S4tSJt10WrHnUDBjfdxYslnxpgdahUnHXux6MHWos.SNGG38TA8CAQZlOS) | [Recording](https://generalassembly.zoom.us/rec/share/WfuEH4fb-mGGoFUBOW9NyRnGcKrROhaYM7oYPwBJchvb4a_0n6Cuf1PljMKxh-cA.CuICsZNG_gZcbpxA) | [Recording](https://generalassembly.zoom.us/rec/share/R_0VXhOYbAXNxRHHiKnSQwJ1uUh5bMyRnHba4MkUl-Zxp_qcPQnMTeDLvr3y6_88.PD4ZJQ4Sh15AKg-h) |[Recording](https://generalassembly.zoom.us/rec/share/n1-Gj_MAtjhGLUK3gX6hvQ-jmhysJybAZLZnNmTmpZEAWSTGZ7rCOmco8rxLwtfJ.e99bqAvYsPJWYFGC)|
+ | Passcode: `&Ta9O50&` | Passcode: `y0#UWaa?` | Passcode: `^smC7*0E` | Passcode: `M6iwu4=s` | Passcode: `Jr7=@@74` |
+>  
  </p></details></li>
  
   </ul>
