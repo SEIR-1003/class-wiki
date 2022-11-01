@@ -357,17 +357,15 @@ ___
   In Week 5, we are introduced to back-end and get to practice using <b>Express</b> and <b>Express Middleware</b>.  We also learn how to implement <b>controllers</b>.  We then get a taste of <b>MongoDB</b> and <b>mongoose</b> as a way to store our app's data. We round out the week with a huge group <b>Hackathon!</b>
   </p>
 
-  <!--
+
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Intro to Express](https://github.com/SEI-R-6-21/u2_lesson_express_intro) | [MongoDB](https://github.com/SEI-R-6-21/u2_lesson_mongoDB) | [Mongo / Mongoose Data Model](https://github.com/SEI-R-6-21/u2_lesson_mongoose_data_model) | [Full Stackathon](https://github.com/SEI-R-6-21/u2_full_stackathon) | [Full Stackathon](https://github.com/SEI-R-6-21/u2_full_stackathon) |
-  | [Express Routes](https://github.com/SEI-R-6-21/u2_lesson_express_routing) | [MongoDB Sneakers Lab](https://github.com/SEI-R-6-21/u2_lab_mongoDB_sneakers) | [Mongoose Express](https://github.com/SEI-R-6-21/u2_lesson_mongoose_express) |  | [P2 Prompt](https://github.com/SEI-R-6-21/u2_project_prompt) |
-  | [Intro to Middleware](https://github.com/SEI-R-6-21/u2_lesson_express_middleware) | [Mongo Burgers](https://github.com/SEI-R-6-21/u2_hw_mongo_burgers) | [Mongoose Associations](https://github.com/SEI-R-6-21/u2_lesson_mongoose_associations) |  |  |
-  | [Express Controllers](https://github.com/SEI-R-6-21/u2_lesson_express_controllers) | Outcomes | [ERD](https://github.com/SEI-R-6-21/u2_lesson_ERD) |  |  |
-  | [Express Fruits HW](https://github.com/SEI-R-6-21/u2_hw_express_fruits) |  | [Group Git](https://github.com/SEI-R-6-21/u2_lesson_group_git) |  | [React Forms](https://github.com/SEI-R-6-21/u2_lesson_react_forms) |
-  |  |  | [Mongoose Plants HW](https://github.com/SEI-R-6-21/u2_hw_mongoose_plants) |  | [Recording](https://generalassembly.zoom.us/rec/share/a3gjteFteCP3K2DnUsI9bM_KPIS_T-oUQJUfBDZSzhuv00z3RONnXC0RM6cz45n8.j3pu8UpnS84miIeR) |
-  |  |  | [Full Stackathon Planning HW](https://github.com/SEI-R-6-21/u2_full_stackathon) |  | Password: `Z7Z##V0W` |
--->
+  | [useEffect](https://github.com/SEIR-1003/u2_lesson_useEffect) | [React Router](https://github.com/SEIR-1003/u2_lesson_react_router) | [useContext](https://github.com/SEIR-1003/u2_lesson_useContext) | Project Proposals | PROJECTS |
+  | [React API](https://github.com/SEIR-1003/u2_lesson_react_APIs) | [React Router Lab](https://github.com/SEIR-1003/u2_lab_react_router) | [Context Lab](https://github.com/SEIR-1003/u2_react_useContext_lab/blob/main/README.md) |  | |
+  | [STARWARS Lab](https://github.com/SEIR-1003/u2_react_axios_lab) |  | [Project 2 Promt](https://github.com/SEIR-1003/project2_prompt/blob/main/README.md) |  |  |
+  |  | | Outcomes  |  |  |
+  |  |  |  |  |  |
+  |  |  | 
 
 
   <li><details><summary>Class Recordings </summary><p>
