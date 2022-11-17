@@ -413,12 +413,12 @@ ___
 
   <li><details><summary>Class Recordings</summary><p>
   
- <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+| Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Recording](https://generalassembly.zoom.us/rec/share/Njd8aZlDRs4YwUJiD0obdcbpS0EsG2_TdNg0wwAp6tqyBex77XvLz-9OFWZ3Y8iz.LvrF-j3SbJAMmrCJ) | [Recording](https://generalassembly.zoom.us/rec/share/tnEbx2Eshav-6yHJHb_covf1fdEyhsNbAQjKjMKK-RY-Ln6KlxOrRJK4sPU__6Ih.mH1G4tWKHxKVnjL5) | [Recording](https://generalassembly.zoom.us/rec/share/BNj77uE1oJ8nhaoabjPM2H_99MkSBbc0-ALd12WYsv1YHA0TdafARq8ga3ESSj7Z.VAo5ix_kgxJuEZGl) | [Recording](https://generalassembly.zoom.us/rec/share/OPuevZrW40wABVtNs96DxOyJuBTDezMFbI0Dzin0TLbylF1JSVWyKkpvVQoiazAJ.TmsouU9cMd9ebU86) | [Recording](https://generalassembly.zoom.us/rec/share/tbpaCQi8PGp_jL2ODLbUQ6zQNq7r0Ft3QftXrCWqStNzDmoZZ6cAjT4PiGW7Lr-H.04TCqJrv4qAMmUVE) |
-  | Passcode: `py9ru*!!` | Passcode: `2p$8@?Nq` | Passcode: `rJ9z1!VG` | Passcode: `XT7u@p8N` | Passcode: `PXN490P@` |
+  | [Recording](https://generalassembly.zoom.us/rec/share/17MFOFAqTOZeQttdUyRR9C0PRq8ETQ0G7cV5bwJxhHvs23ZTt0vPR-QNcFZ5RkbR.qC4rLNfjM58phIRh) | [Recording](https://generalassembly.zoom.us/rec/share/LjHfB-f5G4WRmnmTF8HDbqRJ58HvRlkHFWOMVH6wRSSuzsnnfatWwUjES_LLqLvB.qTEyU3gTZXCQue8q) | [Recording](https://generalassembly.zoom.us/rec/share/h0-l4u7pllE9sbgIohV76k5HW-9wTAwMr6MKlJucKrJ7plkK99E39P1Os480jGd4.y5spY08272n4NVzN) | [Recording]() | [Recording]() |
+  | Passcode: `?g5mbk1E` | Passcode: `k1c^y^XF` | Passcode: `Y$S.5jQ8` | Passcode: `` | Passcode: `` |
 
- -->
+ 
 
   ___
   </p></details></li>
