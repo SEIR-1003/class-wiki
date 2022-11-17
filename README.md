@@ -402,10 +402,10 @@ ___
   |:---:|:---:|:---:|:---:|:---:|
   | [SQL Intro](https://github.com/SEIR-1003/u3_lesson_SQL_intro)| [ERD's](https://github.com/SEIR-1003/u3_lesson_ERD) | [Database Design](https://github.com/SEIR-1003/u3_lesson_database_design) | [Sequelize Queries](https://github.com/SEIR-1003/u3_lesson_sequelize_queries-1) | [Sequelize Migrations](https://github.com/SEIR-1003/u3_lesson_sequelize_migrations) |
   | [SQL Practice Lab](https://github.com/SEIR-1003/u3_lab_SQL_practice) | [Intro to Express](https://github.com/SEIR-1003/u3_lesson_express_intro) | [Sequelize Intro](https://github.com/SEIR-1003/u3_lesson_sequelize_intro) | [Sequelize Query Lab](https://github.com/SEIR-1003/u3_lab_sequelize_querying) | [Migrations Lab](https://github.com/SEIR-1003/u3_lab_sequelize_migrations_exercise) |
-  |[SQL Joins](https://github.com/SEIR-1003/u3_lesson_SQL_joins)  | [Express Routes](https://github.com/SEIR-1003/u3_lesson_express_routing) |  Outcomes| [Sequelize Associateions](https://github.com/SEIR-1003/u3_lesson_sequelize_associations) | [Sequelize Practice](https://github.com/SEIR-1003/u3_hw_sequelize_practice) |
+  |[SQL Joins](https://github.com/SEIR-1003/u3_lesson_SQL_joins)  | [Express Routes](https://github.com/SEIR-1003/u3_lesson_express_routing) |  Outcomes| [Sequelize Associateions](https://github.com/SEIR-1003/u3_lesson_sequelize_associations) | [Associations hw](https://github.com/SEIR-1003/u3_hw_sequelize_associations_and_migrations) |
   | [SQL Joins lab](https://github.com/SEIR-1003/u3_lab_SQL_joins) | [Intro to Middle](https://github.com/SEIR-1003/u3_lesson_express_middleware) |  | [Associations Exercise](https://github.com/SEIR-1003/u3_lab_sequelize_associations_exercise) |  |
   | [Carmen Sandiego HW](https://github.com/SEIR-1003/u3_hw_carmen_sandiego) | [Express Controllers](https://github.com/SEIR-1003/u3_lesson_express_controllers) |  | [Complex Associations](https://github.com/SEIR-1003/u3_lesson_sequelize_complex_associations) | |
-||[Express Fruits API](https://github.com/SEIR-1003/u3_hw_express_fruits)||[Associations hw](https://github.com/SEIR-1003/u3_hw_sequelize_associations_and_migrations)||
+||[Express Fruits API](https://github.com/SEIR-1003/u3_hw_express_fruits)||[Sequelize Practice](https://github.com/SEIR-1003/u3_hw_sequelize_practice)||
 
 
   <ul type="none">
