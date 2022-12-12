@@ -459,26 +459,28 @@ ___
  
 
 ___
-<details><summary><strong>Unit 4</strong> - Vue.js | Python | Django</summary><p>
+<details><summary><strong>Unit 4</strong> -  Python | Django</summary><p>
 
 <ul type="none">
 
-  <li><details><summary><strong>Week 10</strong></summary><p>
+  <li><details><summary><strong>Week 11</strong></summary><p>
 
   <p>
-  In Week 10, we learn a new framework called <b>Vue.js</b> and how it is set up differently than React and other libraries we've used. We learn how to use <b>State Methods</b>, <b>Directives</b>, <b>Events</b>, and <b>Emitters</b> in Vue. We also learn how to use Vue with APIs, and how to use <b>Vue Router</b> to direct our page. Later in the week, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>.
+  In Week 11, we are introduced to <b>Python</b> and learn about <b>functions</b>, <b>control flow</b>, <b>loops</b>, and <b>dictionaries</b>. We continue with Python through the week by learning about <b>tuples</b> and <b>OOP</b>. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. 
   </p>
-<!--
+
     
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Vue Intro](https://github.com/SEI-R-6-21/u4_lesson_vue_introduction) | [Vue Events & Emitters](https://github.com/SEI-R-6-21/u4_lesson_vue_events_emitters) | [Vue w/ APIs](https://github.com/SEI-R-6-21/u4_lesson_vue_APIs) | [Portfolio Lab]() | [Intro to Python](https://github.com/SEI-R-6-21/u4_lesson_python_intro) |
-  | [Vue Components & Props](https://github.com/SEI-R-6-21/u4_lesson_vue_components_props) | [Portfolio Lab]() | [Vue API Lab](https://github.com/SEI-R-6-21/u4_lab_vue_API) | [Vue Router](https://github.com/SEI-R-6-21/u4_lesson_vue_router) | [Python Functions](https://github.com/SEI-R-6-21/u4_lesson_python_functions) |
-  | [Vue State](https://github.com/SEI-R-6-21/u4_lesson_vue_state) | Outcomes | [Vue Rock, Paper, Scissor Lab / HW](https://github.com/SEI-R-6-21/u4_lab_vue_rock_paper_scissor) | [Vue RAWG Lab / HW](https://github.com/SEI-R-6-21/u4_hw_vue_RAWG) | [Python Control Flow](https://github.com/SEI-R-6-21/u4_lesson_python_control_flow) |
-  | [Vue Directives](https://github.com/SEI-R-6-21/u4_lesson_vue_directives) |  |  |  | [Python Lists & Loops](https://github.com/SEI-R-6-21/u4_lesson_python_lists_loops) |
-  | [Vue Quiz](https://forms.gle/oPjffTCpfCU2sCGw9) |  |  |  | [Python Dictionaries](https://github.com/SEI-R-6-21/u4_lesson_python_dictionaries) |
-  |  |  |  |  | [Python Choose Your Own Adventure HW](https://github.com/SEI-R-6-21/u4_hw_python_adventure) |
--->
+  | [Intro to Python](https://github.com/SEIR-1003/u4_lesson_python_intro) | [Python Tuples Lab](https://github.com/SEIR-1003/u4_lab_python_tuple_exercise) | [Code War Challenges](https://github.com/SEIR-1003/u4_python_challenges/blob/main/README.md) | [Django Install](https://github.com/SEIR-1003/u4_lesson_django_intro) | [Django Serializer I](https://github.com/SEIR-1003/u4_lesson_django_REST_API) |
+  | [Python Functions](https://github.com/SEIR-1003/u4_lesson_python_functions) | [Python OOP](https://github.com/SEIR-1003/u4_lesson_python_OOP) | OUTCOMES | [Djanjo Models]() | [Djanjo Serializer II](https://github.com/SEIR-1003/u4_django_serializers_ii) |
+  | [Python Controll Flow](https://github.com/SEIR-1003/u4_lesson_python_control_flow) | [CSV Parser Lab](https://github.com/SEIR-1003/u4_lab_python_CSV_parser) |  | [Django Practice I](https://github.com/SEIR-1003/u4_lab_nostaldja) | [Django Practice II](https://github.com/SEIR-1003/u4_lab_django_REST_API) |
+  |  |  |  |  |  |
+  | [Python List & Loops](https://github.com/SEIR-1003/u4_lesson_python_lists_loops) | [Polyglot Workshop](https://github.com/SEIR-1003/u4_polyglot_challenge) |  |  |  |
+  | [Python Dictionaries](https://github.com/SEIR-1003/u4_lesson_python_dictionaries)  |  |  |  | |
+| [Python Tuples](https://github.com/SEI-R-6-21/u4_lesson_python_tuples)  |  |  |  | |
+| [Python CYOA HW](https://github.com/SEIR-1003/u4_hw_python_adventure)  |  |  |  | |
+
    <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
@@ -488,12 +490,13 @@ ___
   | [Recording](https://generalassembly.zoom.us/rec/share/VEWSr_IzJo7D0IaI-J5iDt97W4JOY4xTfBptrIgQUg56J1tc8q8QvVNwKJs0JsZA.4DLkQVHjMaYXWm_D) | [Recording](https://generalassembly.zoom.us/rec/share/c2_vfhIyeEsoiHOXXMsoI3121KvlPcf1oKO0xqD7VzvYxqWj8e70ZiKG-V_AUdM.qJUzjSJT5gMSfiqd) | [Recording](https://generalassembly.zoom.us/rec/share/kcMLaelyvDOiCo9tOLVEObSP5fAu-cwP3aru4yr-wnBNUFpqHoG8cx6Gme3F9HkU.fwnlTvGrtVDLsy2i) | [Recording](https://generalassembly.zoom.us/rec/share/mknk_D0igQwnaQX8C2QENUnas8B2Mc9W00XPBgzl3IW4zEAS8Bn2y-uG4hrRJIuR.vCiZbxMXN7rvC_-p) | No Recording |
   | Passcode: `H6s6#*#2` | Passcode: `3DDLbP&%` | Passcode: `6MsS!%kZ` | Passcode: `x9Aj0=M3` |  |
 -->
+___
   </p></details></li>
 
-  <li><details><summary><strong>Week 11</strong></summary><p>
+  <li><details><summary><strong>Week 12</strong></summary><p>
 
   <p>
-  In Week 11, we continue with Python by learning about <b>tuples</b> and <b>OOP</b> in Python. We then get a quick intro to <b>Django</b> and how to set up <b>views</b>. At the end of the week, we begin our <b>Capstone Project</b>!
+  In Week 12, we continue with Python by working in groups for A stackathon challenge. At the end of the week, we begin our <b>Capstone Project</b>!
   </p>
 
   <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
