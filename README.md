@@ -419,7 +419,7 @@ ___
   | Passcode: `?g5mbk1E` | Passcode: `k1c^y^XF` | Passcode: `Y$S.5jQ8` | Passcode: `` | Passcode: `` |
 
  
-
+</p></details></li>
   ___
   </p></details></li>
 
@@ -428,16 +428,15 @@ ___
   <p>
   In Week 8, we cover Sequelize <b>migrations</b> and <b>associations</b>, as well as how to set up <b>Sequelize with Express</b>.  Then we learn all about how to integrate <b>user authentication</b> in our apps from scratch. At the end of the week, we learn how to set up <b>complex associations</b> in Sequelize and then split up into our Groups for Project 3!
   </p>
-<!--
+
   
   | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Sequelize Migrations](https://github.com/SEI-R-6-21/u3_lesson_sequelize_migrations) | [Express Sequelize](https://github.com/SEI-R-6-21/u3_lesson_express_sequelize) | [JWT Auth](https://github.com/SEI-R-6-21/u3_lesson_JWT_auth) | [React Auth](https://github.com/SEI-R-6-21/u3_lesson_react_auth) | [P3 Pitch Presentations](https://github.com/SEI-R-6-21/u3_project_prompt) |
-  | [Migrations Exercise Lab](https://github.com/SEI-R-6-21/u3_lab_sequelize_migrations_exercise) | [Sequelize API from Scratch Lab / HW](https://github.com/SEI-R-6-21/u3_lab_sequelize_API_from_scratch) | [Sequelize Auth](https://github.com/SEI-R-6-21/u3_lesson_sequelize_auth) | [Sequelize Complex Associations](https://github.com/SEI-R-6-21/u3_lesson_sequelize_complex_associations) | []() |
-  | [Sequelize Associations](https://github.com/SEI-R-6-21/u3_lesson_sequelize_associations) | [JWT Auth Study HW](https://github.com/SEI-R-6-21/u3_hw_JWT_auth_study) | []() | [P3 Prompt](https://github.com/SEI-R-6-21/u3_project_prompt) | []() |
-  | [Associations Exercise Lab](https://github.com/SEI-R-6-21/u3_lab_sequelize_associations_exercise) | []() | []() | []() | []() |
-  | [Associations & Migrations HW](https://github.com/SEI-R-6-21/u3_hw_sequelize_associations_and_migrations) | []() | []() | []() | []() |
--->
+  | [Express Sequelize]() | Full Stack Project | HOLIDAY BREAK | HOLIDAY BREAK  | HOLIDAY BREAK  |
+  | [Sequelize API from scratch]() | [P3 Group Demo]() |  |  | |
+  | [Router Lab]() | | |  |  |
+  
+
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
@@ -490,6 +489,7 @@ ___
   | [Recording](https://generalassembly.zoom.us/rec/share/VEWSr_IzJo7D0IaI-J5iDt97W4JOY4xTfBptrIgQUg56J1tc8q8QvVNwKJs0JsZA.4DLkQVHjMaYXWm_D) | [Recording](https://generalassembly.zoom.us/rec/share/c2_vfhIyeEsoiHOXXMsoI3121KvlPcf1oKO0xqD7VzvYxqWj8e70ZiKG-V_AUdM.qJUzjSJT5gMSfiqd) | [Recording](https://generalassembly.zoom.us/rec/share/kcMLaelyvDOiCo9tOLVEObSP5fAu-cwP3aru4yr-wnBNUFpqHoG8cx6Gme3F9HkU.fwnlTvGrtVDLsy2i) | [Recording](https://generalassembly.zoom.us/rec/share/mknk_D0igQwnaQX8C2QENUnas8B2Mc9W00XPBgzl3IW4zEAS8Bn2y-uG4hrRJIuR.vCiZbxMXN7rvC_-p) | No Recording |
   | Passcode: `H6s6#*#2` | Passcode: `3DDLbP&%` | Passcode: `6MsS!%kZ` | Passcode: `x9Aj0=M3` |  |
 -->
+  </p></details></li>
 ___
   </p></details></li>
 
