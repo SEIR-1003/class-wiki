@@ -499,12 +499,12 @@ ___
   In Week 12, we continue with Python by working in groups for A stackathon challenge. At the end of the week, we begin our <b>Capstone Project</b>!
   </p>
 
-  <!--| Monday | Tuesday | Wednesday | Thursday | Friday |
+  | Monday | Tuesday | Wednesday | Thursday | Friday |
   |:---:|:---:|:---:|:---:|:---:|
-  | [Django Full Stackathon](https://github.com/SEIR-1003/u4_django_fullstack) | [[Django Full Stackathon Cont...](https://github.com/SEIR-1003/u4_django_fullstack) | Full Stackathon Presentations | [P4 Project Planning] | Project Week |
+  | [Django Full Stackathon](https://github.com/SEIR-1003/u4_django_fullstack) | [Django Full Stackathon Cont...](https://github.com/SEIR-1003/u4_django_fullstack) | Full Stackathon Presentations | P4 Project Planning | Project Week |
   |  | | OUTCOMES |  | |
   
--->
+
   <ul type="none">
 
   <li><details><summary>Class Recordings</summary><p>
